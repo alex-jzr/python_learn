@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available" lang="zh" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>阿奇大战铁血战士 - 维基百科，自由的百科全书</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )zhwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"9be7cdca-0506-4754-8a1c-51606a8b5e02","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"阿奇大战铁血战士","wgTitle":"阿奇大战铁血战士","wgCurRevisionId":84402514,"wgRevisionId":84402514,"wgArticleId":7139409,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["含有英語的條目","典范条目","使用ISBN魔术链接的页面","阿奇漫画出版物","黑马漫画出版物","跨公司跨界作品","铁血战士系列漫画","2015年面世的漫画"],"wgPageViewLanguage":"zh","wgPageContentLanguage":"zh","wgPageContentModel":"wikitext","wgRelevantPageName":"阿奇大战铁血战士","wgRelevantArticleId":7139409,"wgUserVariant":"zh","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-hant","zh-cn","zh-tw","zh-hk","zh-sg","zh-mo","zh-my"]},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q23020250","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.gadget.large-font":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.edit0","ext.gadget.WikiMiniAtlas","ext.gadget.UnihanTooltips","ext.gadget.Difflink","ext.gadget.pseudonamespace-UI","ext.gadget.SpecialWikitext","ext.gadget.switcher","ext.gadget.VariantAlly","ext.gadget.AdvancedSiteNotices","ext.gadget.hideConversionTab","ext.gadget.ilhpp","ext.gadget.noteTA","ext.gadget.NavFrame","ext.gadget.collapsibleTables","ext.gadget.scrollUpButton","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=zh&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=zh&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=zh&amp;modules=ext.gadget.large-font&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=zh&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.44.0-wmf.19">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/zh/6/63/ArchieVsPredator1.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1845">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/zh/6/63/ArchieVsPredator1.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1230">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="984">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="阿奇大战铁血战士 - 维基百科，自由的百科全书">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//zh.m.wikipedia.org/wiki/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB">
+<link rel="alternate" type="application/x-wiki" title="编辑本页" href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (zh)">
+<link rel="EditURI" type="application/rsd+xml" href="//zh.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://zh.wikipedia.org/wiki/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB">
+<link rel="alternate" hreflang="zh" href="https://zh.wikipedia.org/wiki/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB">
+<link rel="alternate" hreflang="zh-Hans" href="https://zh.wikipedia.org/zh-hans/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB">
+<link rel="alternate" hreflang="zh-Hans-CN" href="https://zh.wikipedia.org/zh-cn/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB">
+<link rel="alternate" hreflang="zh-Hans-MY" href="https://zh.wikipedia.org/zh-my/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB">
+<link rel="alternate" hreflang="zh-Hans-SG" href="https://zh.wikipedia.org/zh-sg/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB">
+<link rel="alternate" hreflang="zh-Hant" href="https://zh.wikipedia.org/zh-hant/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://zh.wikipedia.org/zh-hk/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB">
+<link rel="alternate" hreflang="zh-Hant-MO" href="https://zh.wikipedia.org/zh-mo/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB">
+<link rel="alternate" hreflang="zh-Hant-TW" href="https://zh.wikipedia.org/zh-tw/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB">
+<link rel="alternate" hreflang="x-default" href="https://zh.wikipedia.org/wiki/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia的Atom feed" href="/w/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-阿奇大战铁血战士 rootpage-阿奇大战铁血战士 skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">跳转到内容</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="站点">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="主菜单" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="主菜单"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">主菜单</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">主菜单</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		导航
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" title="访问首页​[z]" accesskey="z"><span>首页</span></a></li><li id="n-indexpage" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95" title="以分类索引搜寻中文维基百科"><span>分类索引</span></a></li><li id="n-Featured_content" class="mw-list-item"><a href="/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="查看中文维基百科的特色内容"><span>特色内容</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:%E6%96%B0%E8%81%9E%E5%8B%95%E6%85%8B" title="提供当前新闻事件的背景资料"><span>新闻动态</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="列出维基百科中的最近修改​[r]" accesskey="r"><span>最近更改</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="随机载入一个页面​[x]" accesskey="x"><span>随机条目</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2"><span>特殊页面</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-help" class="vector-menu mw-portlet mw-portlet-help"  >
+	<div class="vector-menu-heading">
+		帮助
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95" title="寻求帮助"><span>帮助</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%A4%BE%E7%BE%A4%E9%A6%96%E9%A1%B5" title="关于本计划、你可以做什么、应该如何做"><span>维基社群</span></a></li><li id="n-policy" class="mw-list-item"><a href="/wiki/Wikipedia:%E6%96%B9%E9%87%9D%E8%88%87%E6%8C%87%E5%BC%95" title="查看维基百科的方针和指引"><span>方针与指引</span></a></li><li id="n-villagepump" class="mw-list-item"><a href="/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88" title="参与维基百科社群的讨论"><span>互助客栈</span></a></li><li id="n-Information_desk" class="mw-list-item"><a href="/wiki/Wikipedia:%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94" title="解答任何与维基百科无关的问题的地方"><span>知识问答</span></a></li><li id="n-conversion" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%AD%97%E8%AF%8D%E8%BD%AC%E6%8D%A2" title="提出字词转换请求"><span>字词转换</span></a></li><li id="n-IRC" class="mw-list-item"><a href="/wiki/Wikipedia:IRC%E8%81%8A%E5%A4%A9%E9%A2%91%E9%81%93"><span>IRC即时聊天</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:%E8%81%94%E7%BB%9C%E6%88%91%E4%BB%AC" title="如何联络维基百科"><span>联络我们</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E" title="查看维基百科的简介"><span>关于维基百科</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="维基百科" src="/static/images/mobile/copyright/wikipedia-wordmark-zh.svg" style="width: 6.5625em; height: 1.375em;">
+		<img class="mw-logo-tagline" alt="自由的百科全书" src="/static/images/mobile/copyright/wikipedia-tagline-zh.svg" width="103" height="14" style="width: 6.4375em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:%E6%90%9C%E7%B4%A2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="搜索维基百科​[f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="搜索维基百科" aria-label="搜索维基百科" autocapitalize="sentences" title="搜索维基百科​[f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:搜索">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">搜索</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="个人工具">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="外观">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="更改页面字体大小、宽度和颜色的外观" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="外观"  >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance"></span>
+
+<span class="vector-dropdown-label-text">外观</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=zh.wikipedia.org&amp;uselang=zh" class=""><span>资助维基百科</span></a>
+</li>
+<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" title="我们推荐您创建账号并登录，但这不是强制性的" class=""><span>创建账号</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" title="建议你登录，尽管并非必须。​[o]" accesskey="o" class=""><span>登录</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="更多选项" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="个人工具"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">个人工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="用户菜单" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-sitesupport" class="user-links-collapsible-item mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=zh.wikipedia.org&amp;uselang=zh"><span>资助维基百科</span></a></li><li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" title="我们推荐您创建账号并登录，但这不是强制性的"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>创建账号</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" title="建议你登录，尽管并非必须。​[o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>登录</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		未登录编辑者的页面 <a href="/wiki/Help:%E6%96%B0%E6%89%8B%E5%85%A5%E9%97%A8" aria-label="了解有关编辑的更多信息"><span>了解详情</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%B4%A1%E7%8C%AE" title="来自此IP地址的编辑列表​[y]" accesskey="y"><span>贡献</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:%E6%88%91%E7%9A%84%E8%AE%A8%E8%AE%BA%E9%A1%B5" title="对于来自此IP地址编辑的讨论​[n]" accesskey="n"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="站点">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="目录" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">目录</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">隐藏</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">序言</div>
+			</a>
+		</li>
+		<li id="toc-出版史"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#出版史">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>出版史</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-出版史-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>开关出版史子章节</span>
+			</button>
+		
+		<ul id="toc-出版史-sublist" class="vector-toc-list">
+			<li id="toc-发展"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#发展">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.1</span>
+					<span>发展</span>
+				</div>
+			</a>
+			
+			<ul id="toc-发展-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-出版"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#出版">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.2</span>
+					<span>出版</span>
+				</div>
+			</a>
+			
+			<ul id="toc-出版-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-内容简介"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#内容简介">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>内容简介</span>
+			</div>
+		</a>
+		
+		<ul id="toc-内容简介-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-销量和评价"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#销量和评价">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>销量和评价</span>
+			</div>
+		</a>
+		
+		<ul id="toc-销量和评价-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-参考资料"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#参考资料">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>参考资料</span>
+			</div>
+		</a>
+		
+		<ul id="toc-参考资料-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-外部链接"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#外部链接">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>外部链接</span>
+			</div>
+		</a>
+		
+		<ul id="toc-外部链接-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav aria-label="目录" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="目录" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">阿奇大战铁血战士</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="前往另一种语言写成的文章。2种语言可用"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-2" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">2种语言</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-en badge-Q17437796 badge-featuredarticle mw-list-item" title="典范条目"><a href="https://en.wikipedia.org/wiki/Archie_vs._Predator" title="Archie vs. Predator – 英语" lang="en" hreflang="en" data-title="Archie vs. Predator" data-language-autonym="English" data-language-local-name="英语" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%87%D0%B8_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%A5%D0%B8%D1%89%D0%BD%D0%B8%D0%BA%D0%B0" title="Арчи против Хищника – 俄语" lang="ru" hreflang="ru" data-title="Арчи против Хищника" data-language-autonym="Русский" data-language-local-name="俄语" class="interlanguage-link-target"><span>Русский</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q23020250#sitelinks-wikipedia" title="编辑跨语言链接" class="wbc-editpage">编辑链接</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="命名空间">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" title="浏览条目正文​[c]" accesskey="c"><span>条目</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" rel="discussion" title="关于此页面的讨论​[t]" accesskey="t"><span>讨论</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown "  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="更改语言变体"   >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">不转换</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-varlang-0" class="selected ca-variants-zh mw-list-item"><a href="/zh/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" lang="zh" hreflang="zh"><span>不转换</span></a></li><li id="ca-varlang-1" class="ca-variants-zh-Hans mw-list-item"><a href="/zh-hans/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" lang="zh-Hans" hreflang="zh-Hans"><span>简体</span></a></li><li id="ca-varlang-2" class="ca-variants-zh-Hant mw-list-item"><a href="/zh-hant/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" lang="zh-Hant" hreflang="zh-Hant"><span>繁體</span></a></li><li id="ca-varlang-3" class="ca-variants-zh-Hans-CN mw-list-item"><a href="/zh-cn/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" lang="zh-Hans-CN" hreflang="zh-Hans-CN"><span>大陆简体</span></a></li><li id="ca-varlang-4" class="ca-variants-zh-Hant-HK mw-list-item"><a href="/zh-hk/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" lang="zh-Hant-HK" hreflang="zh-Hant-HK"><span>香港繁體</span></a></li><li id="ca-varlang-5" class="ca-variants-zh-Hant-MO mw-list-item"><a href="/zh-mo/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" lang="zh-Hant-MO" hreflang="zh-Hant-MO"><span>澳門繁體</span></a></li><li id="ca-varlang-6" class="ca-variants-zh-Hans-MY mw-list-item"><a href="/zh-my/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" lang="zh-Hans-MY" hreflang="zh-Hans-MY"><span>大马简体</span></a></li><li id="ca-varlang-7" class="ca-variants-zh-Hans-SG mw-list-item"><a href="/zh-sg/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" lang="zh-Hans-SG" hreflang="zh-Hans-SG"><span>新加坡简体</span></a></li><li id="ca-varlang-8" class="ca-variants-zh-Hant-TW mw-list-item"><a href="/zh-tw/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" lang="zh-Hant-TW" hreflang="zh-Hant-TW"><span>臺灣正體</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="查看">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB"><span>阅读</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=edit" title="编辑该页面​[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=history" title="本页面的早前版本。​[h]" accesskey="h"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="页面工具">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="工具"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">工具</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">工具</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">隐藏</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="更多选项" >
+	<div class="vector-menu-heading">
+		操作
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB"><span>阅读</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=edit" title="编辑该页面​[e]" accesskey="e"><span>编辑</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=history"><span>查看历史</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		常规
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" title="列出所有与本页相链的页面​[j]" accesskey="j"><span>链入页面</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" rel="nofollow" title="页面链出所有页面的更改​[k]" accesskey="k"><span>相关更改</span></a></li><li id="t-upload" class="mw-list-item"><a href="//zh.wikipedia.org/wiki/Project:上传" title="上传图像或多媒体文件​[u]" accesskey="u"><span>上传文件</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;oldid=84402514" title="此页面该修订版本的固定链接"><span>固定链接</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=info" title="关于此页面的更多信息"><span>页面信息</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:%E5%BC%95%E7%94%A8%E6%AD%A4%E9%A1%B5%E9%9D%A2&amp;page=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;id=84402514&amp;wpFormIdentifier=titleform" title="有关如何引用此页面的信息"><span>引用此页</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:URL%E7%BC%A9%E7%9F%AD%E7%A8%8B%E5%BA%8F&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E9%2598%25BF%25E5%25A5%2587%25E5%25A4%25A7%25E6%2588%2598%25E9%2593%2581%25E8%25A1%2580%25E6%2588%2598%25E5%25A3%25AB"><span>获取短链接</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E9%2598%25BF%25E5%25A5%2587%25E5%25A4%25A7%25E6%2588%2598%25E9%2593%2581%25E8%25A1%2580%25E6%2588%2598%25E5%25A3%25AB"><span>下载二维码</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		打印/导出
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=show-download-screen"><span>下载为PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="本页面的可打印版本​[p]" accesskey="p"><span>打印页面</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		在其他项目中
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q23020250" title="链接到连接的数据仓库项目​[g]" accesskey="g"><span>维基数据项目</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="页面工具">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="外观">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">外观</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin">移至侧栏</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin">隐藏</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-FA" class="mw-indicator"><div class="mw-parser-output"><span typeof="mw:File"><a href="/wiki/Wikipedia:%E5%85%B8%E8%8C%83%E6%9D%A1%E7%9B%AE" title="这是典范条目，点此获取更多信息。"><img alt="典范条目" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/24px-Cscr-featured.svg.png" decoding="async" width="24" height="23" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/36px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/48px-Cscr-featured.svg.png 2x" data-file-width="466" data-file-height="443" /></a></span></div></div>
+		<div id="mw-indicator-noteTA-767ecc69" class="mw-indicator"><div class="mw-parser-output"><span class="skin-invert" typeof="mw:File"><span title="本页使用了标题或全文手工转换"><img alt="本页使用了标题或全文手工转换" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/35px-Zh_conversion_icon_m.svg.png" decoding="async" width="35" height="22" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/53px-Zh_conversion_icon_m.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Zh_conversion_icon_m.svg/70px-Zh_conversion_icon_m.svg.png 2x" data-file-width="32" data-file-height="20" /></span></span></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">维基百科，自由的百科全书</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="zh" dir="ltr"><div id="noteTA-767ecc69" class="noteTA"><div class="noteTA-group"><div data-noteta-group-source="module" data-noteta-group="Movie"></div><div data-noteta-group-source="module" data-noteta-group="Entertainer"></div></div><div class="noteTA-local"><div data-noteta-code="zh-tw:制裁者; zh-hk:懲罰者; zh-cn:惩罚者;"></div></div></div>
+<style data-mw-deduplicate="TemplateStyles:r83732082">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)>div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme) div:not(.notheme){background:#1f1f23!important;color:#f8f9fa}}html.skin-theme-clientpref-night .mw-parser-output .infobox td div:not(.notheme)[style]{background:transparent!important;color:var(--color-base,#202122)}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox td div:not(.notheme)[style]{background:transparent!important;color:var(--color-base,#202122)}}html.skin-theme-clientpref-night .mw-parser-output .infobox td div.NavHead:not(.notheme)[style]{background:transparent!important}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox td div.NavHead:not(.notheme)[style]{background:transparent!important}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table>caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table>tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table tr{display:table-row!important}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</style><table class="infobox" style="width: 24em; background: #f2f9ff;"><tbody><tr><th colspan="2" class="infobox-above" style="background: #99c2ff;">阿奇大战铁血战士</th></tr><tr><td colspan="2" class="infobox-image"><span typeof="mw:File"><a href="/wiki/File:ArchieVsPredator1.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/zh/thumb/6/63/ArchieVsPredator1.png/250px-ArchieVsPredator1.png" decoding="async" width="250" height="384" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/zh/6/63/ArchieVsPredator1.png 1.5x" data-file-width="255" data-file-height="392" /></a></span><div class="infobox-caption"><small>费尔南多·鲁伊斯绘制的《阿奇大战铁血战士》第一期封面</small></div></td></tr><tr><th colspan="2" class="infobox-header" style="background: #99c2ff;;">出版資訊</th></tr><tr><th scope="row" class="infobox-label" style="width: 40%;;"><a href="/wiki/Category:%E6%BC%AB%E7%95%AB%E5%87%BA%E7%89%88%E7%A4%BE" title="Category:漫畫出版社">出版社</a></th><td class="infobox-data" style=""><style data-mw-deduplicate="TemplateStyles:r82655520">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><div class="plainlist">
+<ul><li><a href="/wiki/%E9%BB%91%E9%A9%AC%E6%BC%AB%E7%94%BB" title="黑马漫画">黑马漫画</a></li>
+<li><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E6%BC%AB%E7%94%BB&amp;action=edit&amp;redlink=1" class="new" title="阿奇漫画（页面不存在）">阿奇漫画</a></li></ul>
+</div></td></tr><tr><th scope="row" class="infobox-label" style="width: 40%;;">出版时间</th><td class="infobox-data" style="">2015年四月至七月</td></tr><tr><th scope="row" class="infobox-label" style="width: 40%;;">发行期数</th><td class="infobox-data" style="">四</td></tr><tr><th scope="row" class="infobox-label" style="width: 40%;;">主要角色</th><td class="infobox-data" style=""><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r82655520" /><div class="plainlist">
+<ul><li><a href="/wiki/%E9%98%BF%E5%A5%87%C2%B7%E5%AE%89%E5%BE%B7%E9%B2%81" title="阿奇·安德鲁">阿奇·安德鲁</a></li>
+<li><a href="/wiki/%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB_(%E8%99%9A%E6%9E%84%E7%94%9F%E7%89%A9)" title="铁血战士 (虚构生物)">铁血战士</a></li></ul>
+</div></td></tr><tr><th colspan="2" class="infobox-header" style="background: #99c2ff;;">创作团队</th></tr><tr><th scope="row" class="infobox-label" style="width: 40%;;">作者</th><td class="infobox-data" style=""><a href="/w/index.php?title=%E4%BA%9A%E5%8E%86%E5%85%8B%E6%96%AF%C2%B7%E5%BE%B7%E5%9D%8E%E7%9A%AE&amp;action=edit&amp;redlink=1" class="new" title="亚历克斯·德坎皮（页面不存在）">亚历克斯·德坎皮</a></td></tr><tr><th scope="row" class="infobox-label" style="width: 40%;;">繪者</th><td class="infobox-data" style="">费尔南多·鲁伊斯</td></tr><tr><th scope="row" class="infobox-label" style="width: 40%;;">铅笔画</th><td class="infobox-data" style="">费尔南多·鲁伊斯</td></tr><tr><th scope="row" class="infobox-label" style="width: 40%;;">钢笔画</th><td class="infobox-data" style="">里克·科斯洛夫斯基</td></tr><tr><th scope="row" class="infobox-label" style="width: 40%;;">文字书写</th><td class="infobox-data" style=""><a href="/w/index.php?title=%E7%BA%A6%E7%BF%B0%C2%B7%E6%B2%83%E5%85%8B%E6%9B%BC&amp;action=edit&amp;redlink=1" class="new" title="约翰·沃克曼（页面不存在）">约翰·沃克曼</a></td></tr><tr><th scope="row" class="infobox-label" style="width: 40%;;">着色</th><td class="infobox-data" style="">杰森·米勒</td></tr><tr><th colspan="2" class="infobox-header" style="background: #99c2ff;;">全集</th></tr><tr><th scope="row" class="infobox-label" style="width: 40%;;">《精装书》</th><td class="infobox-data" style=""><a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1616558059" class="internal mw-magiclink-isbn">ISBN 1616558059</a></td></tr><tr><th scope="row" class="infobox-label" style="width: 40%;;">《平装书》</th><td class="infobox-data" style=""><a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1506714668" class="internal mw-magiclink-isbn">ISBN 1506714668</a></td></tr></tbody></table>
+<p>《<b>阿奇大战铁血战士</b>》（英語：<span lang="en"><i>Archie vs. Predator</i></span>）是2015年4至7月<a href="/wiki/%E9%BB%91%E9%A9%AC%E6%BC%AB%E7%94%BB" title="黑马漫画">黑马漫画</a>和<a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E6%BC%AB%E7%94%BB&amp;action=edit&amp;redlink=1" class="new" title="阿奇漫画（页面不存在）">阿奇漫画</a>在美国发行的四期<a href="/w/index.php?title=%E9%99%90%E9%87%8F%E8%BF%9E%E7%8E%AF%E6%BC%AB%E7%94%BB&amp;action=edit&amp;redlink=1" class="new" title="限量连环漫画（页面不存在）">限量连环</a><a href="/wiki/%E6%BC%AB%E7%94%BB%E4%B9%A6" title="漫画书">漫画图书</a>，由<a href="/w/index.php?title=%E4%BA%9A%E5%8E%86%E5%85%8B%E6%96%AF%C2%B7%E5%BE%B7%E5%9D%8E%E7%9A%AE&amp;action=edit&amp;redlink=1" class="new" title="亚历克斯·德坎皮（页面不存在）">亚历克斯·德坎皮</a>创作，费尔南多·鲁伊斯绘图，属<a href="/w/index.php?title=%E8%B7%A8%E5%85%AC%E5%8F%B8%E8%B7%A8%E7%95%8C&amp;action=edit&amp;redlink=1" class="new" title="跨公司跨界（页面不存在）">跨公司跨界</a>作品，于2015年11月推出<a href="/wiki/%E7%B2%BE%E8%A3%9D%E6%9B%B8" title="精裝書">精装收藏本</a>，2019年8月又推出<a href="/wiki/%E5%B9%B3%E8%A3%9D%E6%9B%B8" title="平裝書">平装收藏本</a>。
+</p><p>书中情节遵循二十余年来阿奇系列漫画的传统，美国少年<a href="/wiki/%E9%98%BF%E5%A5%87%C2%B7%E5%AE%89%E5%BE%B7%E9%B2%81" title="阿奇·安德鲁">阿奇·安德鲁</a>遇见各种不同寻常的名人或流行文化标志角色，这次他遇上银河系中最致命的猎人<a href="/wiki/%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB_(%E8%99%9A%E6%9E%84%E7%94%9F%E7%89%A9)" title="铁血战士 (虚构生物)">铁血战士</a>。漫画构想最早由阿奇漫画向拥有铁血战士版权的黑马漫画和<a href="/wiki/%E4%BA%8C%E5%8D%81%E4%B8%96%E7%B4%80%E5%BD%B1%E6%A5%AD" title="二十世紀影業">二十世纪福克斯</a>提出，三家公司一拍即合，请德坎皮创作情节，鲁伊斯绘图。项目正式公布时，许多媒体在报导标题上强调新书名不是开玩笑。漫画讲述铁血战士抵达地球后开始跟踪高中生阿奇·安德鲁及其同学，多名少年被杀，幸存者发现遭受不明身份凶手猎杀后决心反击。
+</p><p>《阿奇大战铁血战士》获得评论界好评，特别是书中的黑色幽默和怪异的<a href="/wiki/%E8%B7%A8%E7%95%8C%E4%BD%9C%E5%93%81" title="跨界作品">跨界</a>对决。图书发行期间是两家出版商最热销的作品，获阴森奖最佳限量连环漫画奖。续作《<a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB2&amp;action=edit&amp;redlink=1" class="new" title="阿奇大战铁血战士2（页面不存在）">阿奇大战铁血战士2</a>》由德坎皮创作，罗伯特·哈克绘图，2019年7月面世。
+</p>
+<meta property="mw:PageProp/toc" />
+<div class="mw-heading mw-heading2"><h2 id="出版史"><span id=".E5.87.BA.E7.89.88.E5.8F.B2"></span>出版史</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=edit&amp;section=1" title="编辑章节：出版史"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="发展"><span id=".E5.8F.91.E5.B1.95"></span>发展</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=edit&amp;section=2" title="编辑章节：发展"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>阿奇漫画（<span lang="en">Archie Comics</span>）曾于1994年与<a href="/wiki/%E6%BC%AB%E5%A8%81%E6%BC%AB%E7%94%BB" class="mw-redirect" title="漫威漫画">漫威漫画</a>合作推出<a href="/wiki/%E5%96%AE%E7%AF%87" title="單篇">单篇</a>作品《<a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E9%81%87%E8%A7%81%E6%83%A9%E7%BD%9A%E8%80%85&amp;action=edit&amp;redlink=1" class="new" title="阿奇遇见惩罚者（页面不存在）">阿奇遇见惩罚者</a>》（<i><span lang="en">Archie Meets the Punisher</span></i>），此后主角<a href="/wiki/%E9%98%BF%E5%A5%87%C2%B7%E5%AE%89%E5%BE%B7%E9%B2%81" title="阿奇·安德鲁">阿奇·安德鲁</a>就开始与其他<a href="/wiki/%E8%99%9B%E6%A7%8B%E4%B8%96%E7%95%8C" title="虛構世界">虚构世界</a>的角色组队或对抗<sup id="cite_ref-announcement_1-0" class="reference"><a href="#cite_note-announcement-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-HCintro_2-0" class="reference"><a href="#cite_note-HCintro-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>。2012年的《阿奇遇见<a href="/wiki/Kiss%E5%90%88%E5%94%B1%E5%9C%98" title="Kiss合唱團">KISS合唱团</a>》（<span lang="en"><i>Archie meets KISS</i></span>）和2013年的《阿奇遇见<a href="/wiki/%E6%AC%A2%E4%B9%90%E5%90%88%E5%94%B1%E5%9B%A2" title="欢乐合唱团">欢乐合唱团</a>》（<span lang="en"><i>Archie meets Glee</i></span>）都大获成功，2014年3月召开的阿奇创意峰会还有为新跨界构想集思广益的环节<sup id="cite_ref-dailydead_3-0" class="reference"><a href="#cite_note-dailydead-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-CA_int_4-0" class="reference"><a href="#cite_note-CA_int-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>。会上有人提出<a href="/wiki/%E5%93%A5%E6%96%AF%E6%8B%89" title="哥斯拉">哥斯拉</a>和《<a href="/wiki/%E5%8D%81%E4%B8%89%E8%99%9F%E6%98%9F%E6%9C%9F%E4%BA%94_(%E9%9B%BB%E5%BD%B1)" class="mw-redirect" title="十三號星期五 (電影)">十三号星期五</a>》，但支持者最多的还是<a href="/wiki/%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB_(%E8%99%9A%E6%9E%84%E7%94%9F%E7%89%A9)" title="铁血战士 (虚构生物)">铁血战士</a>。与会画家费尔南多·鲁伊斯（<span lang="en">Fernando Ruiz</span>）很喜欢阿奇和铁血战士跨界的构想，但当时觉得只是想想而已，不可能真的投入制作，也没想到自己会参与其中<sup id="cite_ref-CA_int_4-1" class="reference"><a href="#cite_note-CA_int-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-HCafter_5-0" class="reference"><a href="#cite_note-HCafter-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>。
+</p><p>铁血战士的角色版权属<a href="/wiki/%E4%BA%8C%E5%8D%81%E4%B8%96%E7%B4%80%E5%BD%B1%E6%A5%AD" title="二十世紀影業">二十世纪福克斯</a>所有，<a href="/wiki/%E9%BB%91%E9%A9%AC%E6%BC%AB%E7%94%BB" title="黑马漫画">黑马漫画</a>拥有漫画版权，阿奇漫画向两家公司提议推出跨界作品并且很快获得认可<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>。黑马漫画对亚历克斯·德坎皮（<span lang="en">Alex de Campi</span>）在恐怖漫画《格林德豪斯》（<span lang="en"><i>Grindhouse</i></span>）和幽默漫画《<a href="/wiki/%E5%BD%A9%E8%99%B9%E5%B0%8F%E9%A6%AC%EF%BC%9A%E5%8F%8B%E6%83%85%E5%B0%B1%E6%98%AF%E9%AD%94%E6%B3%95_(%E6%BC%AB%E7%95%AB)#永遠好朋友（2014年1月～2017年4月）" title="彩虹小馬：友情就是魔法 (漫畫)">彩虹小马：永远好朋友</a>》中体现的创作功底很满意，邀请她为项目主笔<sup id="cite_ref-dailydead_3-1" class="reference"><a href="#cite_note-dailydead-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-HCafter_5-1" class="reference"><a href="#cite_note-HCafter-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>。黑马漫画主编布伦丹·赖特（<span lang="en">Brendan Wright</span>）不但是《铁血战士》常规漫画杂志的主编，出版社再版《阿奇档案馆》（<span lang="en"><i>Archie Archives</i></span>）系列作品时也是他与阿奇漫画协调，项目确定后他又成为新书主编。鲁伊斯自始至终都是杂志铅笔画稿的唯一人选，曾与他在第648期《阿奇》（<span lang="en"><i>Archie</i></span>）杂志合作恶搞<a href="/wiki/%E7%B4%A2%E7%88%BE_(%E6%BC%AB%E5%A8%81%E6%BC%AB%E7%95%AB)" title="索爾 (漫威漫畫)">索尔</a>的里克·科斯洛夫斯基（<span lang="en">Rich Koslowski</span>）获选提供钢笔画稿。<sup id="cite_ref-HCafter_5-2" class="reference"><a href="#cite_note-HCafter-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>新杂志起初定名《阿奇遇见铁血战士》，但因参与人员经常误称为《阿奇大战铁血战士》更名，同时还能恶搞《<a href="/wiki/%E5%BC%82%E5%BD%A2%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" title="异形大战铁血战士">异形大战铁血战士</a>》<sup id="cite_ref-comicbook_8-0" class="reference"><a href="#cite_note-comicbook-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>。
+</p><p>德坎皮在项目准备期间看过四千多页阿奇系列漫画<sup id="cite_ref-dc_int_9-0" class="reference"><a href="#cite_note-dc_int-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>，她从20世纪40年代的作品中汲取灵感，称阿奇·安德鲁的女友<a href="/wiki/%E8%B4%9D%E8%92%82%C2%B7%E5%8F%A4%E6%9F%8F" title="贝蒂·古柏">贝蒂·古柏</a>和<a href="/wiki/%E9%9F%A6%E7%BD%97%E5%A6%AE%E5%8D%A1%C2%B7%E6%B4%9B%E5%A5%87" title="韦罗妮卡·洛奇">韦罗妮卡·洛奇</a>身上拥有“更多优势”<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>。阿奇漫画和二十世纪福克斯有权审核或修改德坎皮的剧本，但据作者本人表示，两家公司很好说话，合作过程十分和谐<sup id="cite_ref-dc_int_9-1" class="reference"><a href="#cite_note-dc_int-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>。铁血战士一向以挑战高难度猎物闻名，福克斯公司最担心的地方就是如何让铁血战士找上青少年这种设定不显突兀，所以书中对此提供合理解释<sup id="cite_ref-HCafter_5-3" class="reference"><a href="#cite_note-HCafter-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>。德坎皮预计创作过程会有部分禁忌，例如“不能在阿奇系列图书中加入<a href="/wiki/%E5%85%92%E7%AB%A5%E6%80%A7%E8%99%90%E5%BE%85" title="兒童性虐待">以儿童为猎物</a>的笑料”<sup id="cite_ref-comicbook_8-1" class="reference"><a href="#cite_note-comicbook-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>。除此以外她的写作基本不受干涉，她本以为用<a href="/wiki/%E7%BB%98%E6%96%87%E5%AD%97" class="mw-redirect" title="绘文字">表情符号</a>代表铁血战士说话会引来非议<sup id="cite_ref-comicbook_8-2" class="reference"><a href="#cite_note-comicbook-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>。德坎皮一直觉得以往大部分阿奇系列漫画对<a href="/w/index.php?title=%E8%BF%AA%E5%B0%94%E9%A1%BF%C2%B7%E6%9D%9C%E5%88%A9&amp;action=edit&amp;redlink=1" class="new" title="迪尔顿·杜利（页面不存在）">迪尔顿·杜利</a>（<span lang="en">Dilton Doiley</span>）不够重视，所以对能在新书中深度发掘人物潜力感到非常高兴<sup id="cite_ref-dailydead_3-2" class="reference"><a href="#cite_note-dailydead-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-dc_int_9-2" class="reference"><a href="#cite_note-dc_int-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>。阿奇·安德鲁的最终命运在漫画创作期间反复不定，直到最后一稿才确定他是否存活下来<sup id="cite_ref-HCafter_5-4" class="reference"><a href="#cite_note-HCafter-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>。
+</p><p>鲁伊斯曾尝试用更真实的画风绘制所有漫画，但《阿奇大战铁血战士》的项目要求自始至终都是采用阿奇系列漫画传统风格，由阿奇漫画元老<a href="/w/index.php?title=%E4%B8%B9%C2%B7%E5%BE%B7%E5%8D%A1%E6%B4%9B&amp;action=edit&amp;redlink=1" class="new" title="丹·德卡洛（页面不存在）">丹·德卡洛</a>（<span lang="en">Dan DeCarlo</span>）从20世纪60年代开始普及<sup id="cite_ref-CA_int_4-2" class="reference"><a href="#cite_note-CA_int-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-HCafter_5-5" class="reference"><a href="#cite_note-HCafter-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-ddc_12-0" class="reference"><a href="#cite_note-ddc-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>。杂志编辑组认为，在这样的跨界故事中采用经典画风能够产生更加怪异和惴惴不安的感受。大部分现代漫画作品都是采用数字工具绘图，配合扫描加快创作速度，但《阿奇大战铁血战士》的美术组决定采用传统工艺，使用<a href="/wiki/%E8%81%94%E9%82%A6%E5%BF%AB%E9%80%92" class="mw-redirect" title="联邦快递">联邦快递</a>将画稿寄给下一阶段工作人员<sup id="cite_ref-HCafter_5-6" class="reference"><a href="#cite_note-HCafter-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>。
+</p><p>阿奇漫画和黑马漫马在2014年<a href="/wiki/%E7%B4%90%E7%B4%84%E5%8B%95%E6%BC%AB%E5%B1%95" class="mw-redirect" title="紐約動漫展">纽约动漫展</a>正式公布《阿奇大战铁血战士》项目及其创作团队<sup id="cite_ref-announcement_1-1" class="reference"><a href="#cite_note-announcement-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>，媒体不久便发布信息，其中许多都在标题上强调这古怪的书名并非玩笑<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>。赖特在接受采访时表示，这是他“最疯狂的项目”，而且外界的良好态度令他惊喜不已<sup id="cite_ref-HCafter_5-7" class="reference"><a href="#cite_note-HCafter-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>。
+</p>
+<div class="mw-heading mw-heading3"><h3 id="出版"><span id=".E5.87.BA.E7.89.88"></span>出版</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=edit&amp;section=3" title="编辑章节：出版"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>《阿奇大战铁血战士》在第一期发行数月前先推出宣传版<a href="/w/index.php?title=%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%BC%AB%E7%94%BB&amp;action=edit&amp;redlink=1" class="new" title="垃圾桶漫画（页面不存在）">垃圾桶漫画</a>，包含第一期杂志的八页内容和鲁伊斯部分角色设计图，其中就有最初更显真实的铁血战士草图<sup id="cite_ref-CA_int_4-3" class="reference"><a href="#cite_note-CA_int-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>。全书共分四期，从2015年4月15日开始每月出版一期，最后一期在2015年7月22日问世<sup id="cite_ref-ign1_17-0" class="reference"><a href="#cite_note-ign1-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-CB4_18-0" class="reference"><a href="#cite_note-CB4-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>。每一期都有<a href="/w/index.php?title=%E5%8F%98%E4%BD%93%E5%B0%81%E9%9D%A2&amp;action=edit&amp;redlink=1" class="new" title="变体封面（页面不存在）">两种封面</a>，其中创刊号还有更多的漫画书店特供和<a href="/wiki/%E6%BC%AB%E7%95%AB%E7%AF%80" title="漫畫節">漫画节</a>特供封面<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup>。每一期都有德坎皮创作的额外奖励幽默页面，内容都是阿奇漫画和黑马漫画其他角色的跨界，分别是《<a href="/w/index.php?title=%E8%90%A8%E5%B8%83%E4%B8%BD%E5%A8%9C%E7%9A%84%E6%83%8A%E5%BF%83%E5%86%92%E9%99%A9&amp;action=edit&amp;redlink=1" class="new" title="萨布丽娜的惊心冒险（页面不存在）">萨布丽娜</a>遇见<a href="/wiki/%E5%9C%B0%E7%8B%B1%E7%94%B7%E7%88%B5" title="地狱男爵">地狱男爵</a>》（<span lang="en"><i>Sabrina Meets Hellboy</i></span>，罗伯特·哈克绘图）、《<a href="/wiki/%E9%9D%A2%E5%85%B7_(%E6%BC%AB%E7%95%AB)" title="面具 (漫畫)">小面具</a>和老友》（<span lang="en"><i>Little Mask and his Pals</i></span>，<a href="/w/index.php?title=%E9%98%BF%E7%89%B9%C2%B7%E5%B7%B4%E5%B0%94%E5%A1%94%E6%89%8E&amp;action=edit&amp;redlink=1" class="new" title="阿特·巴尔塔扎（页面不存在）">阿特·巴尔塔扎</a>绘图）、《<a href="/w/index.php?title=%E7%AC%A8%E8%9B%8B%E7%90%BC%E6%96%AF&amp;action=edit&amp;redlink=1" class="new" title="笨蛋琼斯（页面不存在）">琼斯</a>遇见<a href="/w/index.php?title=%E8%AE%B0%E5%BF%86%E7%AE%A1%E7%90%86&amp;action=edit&amp;redlink=1" class="new" title="记忆管理（页面不存在）">记忆管理</a>：“<span lang="en">S</span>”代表沉睡者》（<i><span lang="en">Jones Meets MIND MGMT: "S" is for Sleeper</span></i>，马特·金特绘图），以及《<a href="/w/index.php?title=%E7%8C%AB%E5%A5%B3%E4%B9%90%E9%98%9F&amp;action=edit&amp;redlink=1" class="new" title="猫女乐队（页面不存在）">猫女乐队</a>遇见<a href="/wiki/%E6%90%9C%E5%B0%8B%E8%80%85" title="搜尋者">搜寻者</a>》（<i><span lang="en">Josie and the Pussycats Meet Finder</span></i>，<a href="/w/index.php?title=%E5%8D%A1%E6%8B%89%C2%B7%E6%96%AF%E7%9A%AE%E5%BE%B7%C2%B7%E9%BA%A6%E5%85%8B%E5%B0%BC%E5%B0%94&amp;action=edit&amp;redlink=1" class="new" title="卡拉·斯皮德·麦克尼尔（页面不存在）">卡拉·斯皮德·麦克尼尔</a>绘图）<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup>。2015年11月4日，黑马漫画推出128页的《阿奇大战铁血战士》<a href="/wiki/%E7%B2%BE%E8%A3%9D%E6%9B%B8" title="精裝書">精装收藏本</a>，其中包含额外内容<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup>，后又在2019年8月21日推出104页的<a href="/wiki/%E5%B9%B3%E8%A3%9D%E6%9B%B8" title="平裝書">平装收藏本</a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup>。
+</p>
+<div class="mw-heading mw-heading2"><h2 id="内容简介"><span id=".E5.86.85.E5.AE.B9.E7.AE.80.E4.BB.8B"></span>内容简介</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=edit&amp;section=4" title="编辑章节：内容简介"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><a href="/wiki/%E6%98%A5%E5%81%87" title="春假">春假</a>期间，阿奇和朋友前往洛斯佩迪多斯度假村（<span lang="en">Los Perdidos Resort</span>）旅行，以四处狩猎为乐的外星生命<a href="/wiki/%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB_(%E8%99%9A%E6%9E%84%E7%94%9F%E7%89%A9)" title="铁血战士 (虚构生物)">铁血战士</a>在附近丛林着陆。<a href="/wiki/%E8%B4%9D%E8%92%82%C2%B7%E5%8F%A4%E6%9F%8F" title="贝蒂·古柏">贝蒂</a>和<a href="/wiki/%E9%9F%A6%E7%BD%97%E5%A6%AE%E5%8D%A1%C2%B7%E6%B4%9B%E5%A5%87" title="韦罗妮卡·洛奇">韦罗妮卡</a>在比赛中打起来，引来铁血战士注意并跟踪众人前往<a href="/w/index.php?title=%E6%B2%B3%E8%B0%B7%E9%95%87_(%E9%98%BF%E5%A5%87%E6%BC%AB%E7%94%BB)&amp;action=edit&amp;redlink=1" class="new" title="河谷镇 (阿奇漫画)（页面不存在）">河谷镇</a>（<span lang="en">Riverdale</span>）。<sup id="cite_ref-Archievs.Predator#1_23-0" class="reference"><a href="#cite_note-Archievs.Predator#1-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup>铁血战士的目标是韦罗妮卡，许多武装人员在此期间被杀。贝蒂拍到铁血战士的照片，<a href="/w/index.php?title=%E5%87%AF%E6%96%87%C2%B7%E5%87%AF%E5%8B%92_(%E6%BC%AB%E7%94%BB%E4%BA%BA%E7%89%A9)&amp;action=edit&amp;redlink=1" class="new" title="凯文·凯勒 (漫画人物)（页面不存在）">凯文·凯勒</a>（<span lang="en">Kevin Keller</span>）的父亲是美国军方将领，据他确认，照片上是几乎无可匹敌的外星少年猎人。经凯勒父子安排，阿奇的朋友以及笨蛋琼斯作为诱饵引来铁血战士，但后者识破圈套，大部分伏击人员被杀。<sup id="cite_ref-Archievs.Predator#2_24-0" class="reference"><a href="#cite_note-Archievs.Predator#2-24"><span class="cite-bracket">&#91;</span>24<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>一些朋友想要分开行事，希望铁血战士只追杀韦罗妮卡，这样他们就能逃脱，只有阿奇、贝蒂、琼斯和迪尔顿选择和韦罗妮卡共进退。铁血战士再度来袭并杀害迪尔顿和琼斯，阿奇也受到重伤。<sup id="cite_ref-Archievs.Predator#3_25-0" class="reference"><a href="#cite_note-Archievs.Predator#3-25"><span class="cite-bracket">&#91;</span>25<span class="cite-bracket">&#93;</span></a></sup>贝蒂和韦罗妮卡逃入洛奇庄园（<span lang="en">Lodge Manor</span>），把阿奇放上庄园内的实验治疗机。铁血战士再度来袭，阿奇被杀，两女身受重伤，铁血战士很难过，原来他这些举动都是因为对贝蒂一见钟情。韦罗妮卡苏醒过来，发现贝蒂用治疗机治好两人，还用机器把铁血战士变成阿奇的模样。<sup id="cite_ref-Archievs.Predator#4_26-0" class="reference"><a href="#cite_note-Archievs.Predator#4-26"><span class="cite-bracket">&#91;</span>26<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="销量和评价"><span id=".E9.94.80.E9.87.8F.E5.92.8C.E8.AF.84.E4.BB.B7"></span>销量和评价</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=edit&amp;section=5" title="编辑章节：销量和评价"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>《阿奇大战铁血战士》创刊号是黑马漫画和阿奇漫画2015年4月最畅销的作品，在这个月所有漫画图书中排第74位<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span class="cite-bracket">&#91;</span>27<span class="cite-bracket">&#93;</span></a></sup>。第四期的销量与第一期相比只下滑不到三成，在七月所有漫画图书中排第102<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span class="cite-bracket">&#91;</span>28<span class="cite-bracket">&#93;</span></a></sup>。同年11月发行的精装本销量在当月漫画收藏版图书中排在第36位<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span class="cite-bracket">&#91;</span>29<span class="cite-bracket">&#93;</span></a></sup>。
+</p><p>根据<a href="/wiki/%E6%B1%87%E6%80%BB%E5%AA%92%E4%BD%93" class="mw-redirect" title="汇总媒体">汇总媒体</a>“漫画图书综述”（<span lang="en">Comic Book Roundup</span>）收集的42份评论文章，《阿奇大战铁血战士》创刊号得分7.9（最高十分）<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span class="cite-bracket">&#91;</span>30<span class="cite-bracket">&#93;</span></a></sup>。格莱姆·维尔图（<span lang="en">Graeme Virtue</span>）在《<a href="/wiki/%E5%8D%AB%E6%8A%A5" class="mw-redirect" title="卫报">卫报</a>》发文，认为漫画的跨界设定虽然非常奇怪，但还是同阿奇漫画的惯常风格相符，称赞书中对阿奇系列各角色和铁血战士的描绘真实可信<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span class="cite-bracket">&#91;</span>31<span class="cite-bracket">&#93;</span></a></sup>。《科技时报》（<span lang="en"><i>Tech Times</i></span>）刊登罗宾·帕里什（<span lang="en">Robin Parrish</span>）的评论，认为“极其好笑的黑色幽默”是本书重要卖点<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span class="cite-bracket">&#91;</span>32<span class="cite-bracket">&#93;</span></a></sup>，<span lang="en"><a href="/wiki/IGN" title="IGN">IGN</a></span>网站的杰夫·莱克（<span lang="en">Jeff Lake</span>）称赞创刊号“实在了不起”<sup id="cite_ref-ign1_17-1" class="reference"><a href="#cite_note-ign1-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>。《<a href="/wiki/%E6%9D%BF%E5%B2%A9_(%E9%9B%9C%E8%AA%8C)" class="mw-redirect" title="板岩 (雜誌)">板岩</a>》（<i><span lang="en">Paste</span></i>）杂志指出，书中采用传统漫画风格描绘的可怕场景仿佛从视觉层面直截了当地宣示，（漫画中）青少年的纯真至此一去不复返<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span class="cite-bracket">&#91;</span>33<span class="cite-bracket">&#93;</span></a></sup>。达斯汀·卡拜尔（<span lang="en">Dustin Cabeal</span>）在漫画混蛋（<span lang="en">Comic Bastards</span>）发文，认为本书纯属闹剧，非要把两个完全不可能凑到一块的角色送作堆<sup id="cite_ref-CB4_18-1" class="reference"><a href="#cite_note-CB4-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>。此外，《阿奇大战铁血战士》曾获2015年阴森奖（<span lang="en">Ghastly Award</span>）最佳限量连环漫画奖<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span class="cite-bracket">&#91;</span>34<span class="cite-bracket">&#93;</span></a></sup>。2019年7月，德坎皮创作、罗伯特·哈克（<span lang="en">Robert Hack</span>）绘图的续作《<a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB2&amp;action=edit&amp;redlink=1" class="new" title="阿奇大战铁血战士2（页面不存在）">阿奇大战铁血战士2</a>》问世<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span class="cite-bracket">&#91;</span>35<span class="cite-bracket">&#93;</span></a></sup>。
+</p>
+<div class="mw-heading mw-heading2"><h2 id="参考资料"><span id=".E5.8F.82.E8.80.83.E8.B5.84.E6.96.99"></span>参考资料</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=edit&amp;section=6" title="编辑章节：参考资料"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-announcement-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-announcement_1-0"><sup><b>1.0</b></sup></a> <a href="#cite_ref-announcement_1-1"><sup><b>1.1</b></sup></a></span> <span class="reference-text"><cite class="citation news">C., Ron. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20191123063716/http://archiecomics.com/archie-comics-and-dark-horse-unveil-the-unthinkable-archie-meets-predator/">Archie Comics And Dark Horse Unveil The Unthinkable: Archie Meets Predator</a>. Archie Comics. 2014-10-09 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-28</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://archiecomics.com/archie-comics-and-dark-horse-unveil-the-unthinkable-archie-meets-predator/">原始内容</a>存档于2019-11-23）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Archie+Comics+And+Dark+Horse+Unveil+The+Unthinkable%3A+Archie+Meets+Predator&amp;rft.aufirst=Ron&amp;rft.aulast=C.&amp;rft.date=2014-10-09&amp;rft.genre=article&amp;rft.jtitle=Archie+Comics&amp;rft_id=http%3A%2F%2Farchiecomics.com%2Farchie-comics-and-dark-horse-unveil-the-unthinkable-archie-meets-predator%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-HCintro-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-HCintro_2-0">^</a></b></span> <span class="reference-text">Roberto Aguirre-Sacasa (introduction). Alex de Campi&#160;(<span style="font-size:smaller;"><a href="/wiki/%E7%B7%A8%E5%8A%87" title="編劇">編劇</a></span>),&#32;Fernando Ruiz&#160;(<span style="font-size:smaller;"><a href="/wiki/%E8%97%9D%E8%A1%93%E5%AE%B6" class="mw-redirect" title="藝術家">藝術家</a></span>).&#32;《Archie vs. Predator》&#32;(2015).&#32;Milwaukie, Oregon:&#32;<a href="/wiki/%E9%BB%91%E9%A9%AC%E6%BC%AB%E7%94%BB" title="黑马漫画">Dark Horse Comics</a>,&#32;<style data-mw-deduplicate="TemplateStyles:r61200749">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1616558059" title="Special:网络书源/1616558059">1616558059</a>.</span>
+</li>
+<li id="cite_note-dailydead-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-dailydead_3-0"><sup><b>3.0</b></sup></a> <a href="#cite_ref-dailydead_3-1"><sup><b>3.1</b></sup></a> <a href="#cite_ref-dailydead_3-2"><sup><b>3.2</b></sup></a></span> <span class="reference-text"><cite class="citation news">Anderson, Derek. <a rel="nofollow" class="external text" href="https://dailydead.com/comic-con-2015-interview-alex-de-campi-talks-archie-vs-predator/">Comic-Con 2015 Interview: Alex de Campi Talks Archie VS. Predator</a>. Daily Dead (Daily Dead Media). 2015-07-14 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-28</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20181112223426/https://dailydead.com/comic-con-2015-interview-alex-de-campi-talks-archie-vs-predator/">存档</a>于2018-11-12）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Comic-Con+2015+Interview%3A+Alex+de+Campi+Talks+Archie+VS.+Predator&amp;rft.aufirst=Derek&amp;rft.aulast=Anderson&amp;rft.date=2015-07-14&amp;rft.genre=article&amp;rft.jtitle=Daily+Dead&amp;rft_id=https%3A%2F%2Fdailydead.com%2Fcomic-con-2015-interview-alex-de-campi-talks-archie-vs-predator%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-CA_int-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-CA_int_4-0"><sup><b>4.0</b></sup></a> <a href="#cite_ref-CA_int_4-1"><sup><b>4.1</b></sup></a> <a href="#cite_ref-CA_int_4-2"><sup><b>4.2</b></sup></a> <a href="#cite_ref-CA_int_4-3"><sup><b>4.3</b></sup></a></span> <span class="reference-text"><cite class="citation web">Sims, Chris. <a rel="nofollow" class="external text" href="https://comicsalliance.com/fernando-ruiz-archie-vs-predator-interview/"><span style="padding-left:0.2em;">'</span>I'm Drawing Archie Fighting A Freakin' Predator': Fernando Ruiz Talks 'Archie Vs Predator<span style="padding-right:0.2em;">'</span></a>. Comics Alliance. 2015-03-06 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-28</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190220164246/http://comicsalliance.com/fernando-ruiz-archie-vs-predator-interview/">存档</a>于2019-02-20）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=%27I%27m+Drawing+Archie+Fighting+A+Freakin%27+Predator%27%3A+Fernando+Ruiz+Talks+%27Archie+Vs+Predator%27&amp;rft.aufirst=Chris&amp;rft.aulast=Sims&amp;rft.date=2015-03-06&amp;rft.genre=unknown&amp;rft.jtitle=Comics+Alliance&amp;rft_id=https%3A%2F%2Fcomicsalliance.com%2Ffernando-ruiz-archie-vs-predator-interview%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-HCafter-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-HCafter_5-0"><sup><b>5.0</b></sup></a> <a href="#cite_ref-HCafter_5-1"><sup><b>5.1</b></sup></a> <a href="#cite_ref-HCafter_5-2"><sup><b>5.2</b></sup></a> <a href="#cite_ref-HCafter_5-3"><sup><b>5.3</b></sup></a> <a href="#cite_ref-HCafter_5-4"><sup><b>5.4</b></sup></a> <a href="#cite_ref-HCafter_5-5"><sup><b>5.5</b></sup></a> <a href="#cite_ref-HCafter_5-6"><sup><b>5.6</b></sup></a> <a href="#cite_ref-HCafter_5-7"><sup><b>5.7</b></sup></a></span> <span class="reference-text">Wright, Brendan (afterword). Alex de Campi&#160;(<span style="font-size:smaller;"><a href="/wiki/%E7%B7%A8%E5%8A%87" title="編劇">編劇</a></span>),&#32;Fernando Ruiz&#160;(<span style="font-size:smaller;"><a href="/wiki/%E8%97%9D%E8%A1%93%E5%AE%B6" class="mw-redirect" title="藝術家">藝術家</a></span>).&#32;《Archie vs. Predator》&#32;(2015).&#32;Milwaukie, Oregon:&#32;<a href="/wiki/%E9%BB%91%E9%A9%AC%E6%BC%AB%E7%94%BB" title="黑马漫画">Dark Horse Comics</a>,&#32;<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r61200749" /><a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1616558059" title="Special:网络书源/1616558059">1616558059</a>.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Sunu, Steve. <a rel="nofollow" class="external text" href="https://www.cbr.com/exclusive-richardson-looks-to-dark-horses-2015-future/">Exclusive: Richardson Looks to Dark Horse's 2015 Future</a>. Comic Book Resources. 2014-11-26 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-28</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200626232652/https://www.cbr.com/exclusive-richardson-looks-to-dark-horses-2015-future/">存档</a>于2020-06-26）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Exclusive%3A+Richardson+Looks+to+Dark+Horse%27s+2015+Future&amp;rft.aufirst=Steve&amp;rft.aulast=Sunu&amp;rft.date=2014-11-26&amp;rft.genre=unknown&amp;rft.jtitle=Comic+Book+Resources&amp;rft_id=https%3A%2F%2Fwww.cbr.com%2Fexclusive-richardson-looks-to-dark-horses-2015-future%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Emm, Fox. <a rel="nofollow" class="external text" href="https://www.wickedhorror.com/features/interviews/alex-de-campi-talks-horror-comics/">Exclusive Interview: Alex de Campi on Horror Comics</a>. Wicked Horror. 2016-01-07 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-28</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190428162445/http://wickedhorror.com/features/interviews/alex-de-campi-talks-horror-comics/">存档</a>于2019-04-28）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Exclusive+Interview%3A+Alex+de+Campi+on+Horror+Comics&amp;rft.aufirst=Fox&amp;rft.aulast=Emm&amp;rft.date=2016-01-07&amp;rft.genre=unknown&amp;rft.jtitle=Wicked+Horror&amp;rft_id=https%3A%2F%2Fwww.wickedhorror.com%2Ffeatures%2Finterviews%2Falex-de-campi-talks-horror-comics%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-comicbook-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-comicbook_8-0"><sup><b>8.0</b></sup></a> <a href="#cite_ref-comicbook_8-1"><sup><b>8.1</b></sup></a> <a href="#cite_ref-comicbook_8-2"><sup><b>8.2</b></sup></a></span> <span class="reference-text"><cite class="citation web">Siegel, Lucas. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200626215206/https://comicbook.com/news/archie-vs-predator-writer-alex-de-campi-promises-horribly-gory-v/">Exclusive: Archie Vs. Predator's Alex de Campi Promises "Horribly Gory, Very Wrong, and Funny" Story</a>. ComicBook.com. 2015-04-14 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. 原始内容存档于2020-06-26.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Exclusive%3A+Archie+Vs.+Predator%27s+Alex+de+Campi+Promises+%22Horribly+Gory%2C+Very+Wrong%2C+and+Funny%22+Story&amp;rft.aufirst=Lucas&amp;rft.aulast=Siegel&amp;rft.date=2015-04-14&amp;rft.genre=unknown&amp;rft.jtitle=ComicBook.com&amp;rft_id=https%3A%2F%2Fcomicbook.com%2Fnews%2Farchie-vs-predator-writer-alex-de-campi-promises-horribly-gory-v%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-dc_int-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-dc_int_9-0"><sup><b>9.0</b></sup></a> <a href="#cite_ref-dc_int_9-1"><sup><b>9.1</b></sup></a> <a href="#cite_ref-dc_int_9-2"><sup><b>9.2</b></sup></a></span> <span class="reference-text"><cite class="citation web">Sims, Chris. <a rel="nofollow" class="external text" href="https://comicsalliance.com/alex-de-campi-archie-vs-predator-interview/">They're all a little unbalanced: Alex de Campi talks 'Archie vs. Predator<span style="padding-right:0.2em;">'</span></a>. Comics Alliance. Townsquare Media. 2015-04-28 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190422034247/https://comicsalliance.com/alex-de-campi-archie-vs-predator-interview/">存档</a>于2019-04-22）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=They%27re+all+a+little+unbalanced%3A+Alex+de+Campi+talks+%27Archie+vs.+Predator%27&amp;rft.aufirst=Chris&amp;rft.aulast=Sims&amp;rft.date=2015-04-28&amp;rft.genre=unknown&amp;rft.jtitle=Comics+Alliance&amp;rft_id=https%3A%2F%2Fcomicsalliance.com%2Falex-de-campi-archie-vs-predator-interview%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Truitt, Brian. <a rel="nofollow" class="external text" href="https://www.usatoday.com/story/life/movies/2014/10/09/archie-meets-predator-comic-book-exclusive/16954799/#">Archie Meets Predator a mash-up for the ages</a>. <a href="/wiki/%E4%BB%8A%E6%97%A5%E7%BE%8E%E5%9B%BD" class="mw-redirect" title="今日美国">USA Today</a> (Gannett Satellite Information Network). 2014-10-09 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200626223200/https://www.usatoday.com/story/life/movies/2014/10/09/archie-meets-predator-comic-book-exclusive/16954799/">存档</a>于2020-06-26）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Archie+Meets+Predator+a+mash-up+for+the+ages&amp;rft.aufirst=Brian&amp;rft.aulast=Truitt&amp;rft.date=2014-10-09&amp;rft.genre=article&amp;rft.jtitle=USA+Today&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Flife%2Fmovies%2F2014%2F10%2F09%2Farchie-meets-predator-comic-book-exclusive%2F16954799%2F%23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Moccio, Michael. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160508111024/http://emertainmentmonthly.com/2015/07/15/sdcc-2015-archie-vs-predator-writer-alex-de-campi-on-the-onslaught-in-riverdale/">SDCC 2015: Archie vs. Predator Writer Alex de Campi on the Onslaught in Riverdale</a>. Emertainment Monthly. 2015-07-15 <span class="reference-accessdate"> &#91;<span class="nowrap">2016-05-08</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://emertainmentmonthly.com/2015/07/15/sdcc-2015-archie-vs-predator-writer-alex-de-campi-on-the-onslaught-in-riverdale/">原始内容</a>存档于2016-05-08）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=SDCC+2015%3A+Archie+vs.+Predator+Writer+Alex+de+Campi+on+the+Onslaught+in+Riverdale&amp;rft.aufirst=Michael&amp;rft.aulast=Moccio&amp;rft.date=2015-07-15&amp;rft.genre=unknown&amp;rft.jtitle=Emertainment+Monthly&amp;rft_id=http%3A%2F%2Femertainmentmonthly.com%2F2015%2F07%2F15%2Fsdcc-2015-archie-vs-predator-writer-alex-de-campi-on-the-onslaught-in-riverdale%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-ddc-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-ddc_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cbr.com/dan-decarlo-dead-at-age-of-82-artist-defined-archie-comics-style-for-decades/">Dan DeCarlo Dead at Age of 82: Artist Defined Archie Comics Style for Decades</a>. Comic Book Resources. 2001-12-20 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20171117065707/https://www.cbr.com/dan-decarlo-dead-at-age-of-82-artist-defined-archie-comics-style-for-decades/">存档</a>于2017-11-17）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.btitle=Dan+DeCarlo+Dead+at+Age+of+82%3A+Artist+Defined+Archie+Comics+Style+for+Decades&amp;rft.date=2001-12-20&amp;rft.genre=unknown&amp;rft.pub=Comic+Book+Resources&amp;rft_id=https%3A%2F%2Fwww.cbr.com%2Fdan-decarlo-dead-at-age-of-82-artist-defined-archie-comics-style-for-decades%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Arrant, Chris. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20181112141451/https://www.newsarama.com/22349-archie-vs-predator-no-really.html">Archie vs. Predator ... No, Really</a>. Newsarama. 2014-10-09 <span class="reference-accessdate"> &#91;<span class="nowrap">2018-11-12</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.newsarama.com/22349-archie-vs-predator-no-really.html">原始内容</a>存档于2018-11-12）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Archie+vs.+Predator+...+No%2C+Really&amp;rft.aufirst=Chris&amp;rft.aulast=Arrant&amp;rft.date=2014-10-09&amp;rft.genre=unknown&amp;rft.jtitle=Newsarama&amp;rft_id=http%3A%2F%2Fwww.newsarama.com%2F22349-archie-vs-predator-no-really.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Bonner, Jerry. <a rel="nofollow" class="external text" href="http://www.hngn.com/articles/60108/20150114/archie-vs-predator-is-a-real-thing-and-its-coming-soon-see-it.htm"><span style="padding-left:0.2em;">'</span>Archie vs. Predator' Is a Real Thing and It's Coming Soon</a>. Headlines and Global News. 2015-01-14 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190422015336/http://www.hngn.com/articles/60108/20150114/archie-vs-predator-is-a-real-thing-and-its-coming-soon-see-it.htm">存档</a>于2019-04-22）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=%27Archie+vs.+Predator%27+Is+a+Real+Thing+and+It%27s+Coming+Soon&amp;rft.aufirst=Jerry&amp;rft.aulast=Bonner&amp;rft.date=2015-01-14&amp;rft.genre=unknown&amp;rft.jtitle=Headlines+and+Global+News&amp;rft_id=http%3A%2F%2Fwww.hngn.com%2Farticles%2F60108%2F20150114%2Farchie-vs-predator-is-a-real-thing-and-its-coming-soon-see-it.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">MacDonald, Heidi. <a rel="nofollow" class="external text" href="https://www.comicsbeat.com/archie-vs-predator/">Archie vs... Predator?</a>. The Beat. 2014-10-09 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190422034730/https://www.comicsbeat.com/archie-vs-predator/">存档</a>于2019-04-22）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Archie+vs...+Predator%3F&amp;rft.aufirst=Heidi&amp;rft.aulast=MacDonald&amp;rft.date=2014-10-09&amp;rft.genre=unknown&amp;rft.jtitle=The+Beat&amp;rft_id=https%3A%2F%2Fwww.comicsbeat.com%2Farchie-vs-predator%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Means-Shannon, Hannah. <a rel="nofollow" class="external text" href="https://bleedingcool.com/comics/recent-updates/brendan-wright-editor-of-mind-mgmt-grindhouse-archie-vs-predator-leaves-dark-horse/">Brendan Wright, Editor Of Mind MGMT, Grindhouse, Archie vs Predator, leaves Dark Horse</a>. Bleeding Cool News. 2015-09-01 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20181112181505/https://www.bleedingcool.com/2015/09/01/brendan-wright-editor-of-mind-mgmt-grindhouse-archie-vs-predator-leaves-dark-horse/">存档</a>于2018-11-12）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Brendan+Wright%2C+Editor+Of+Mind+MGMT%2C+Grindhouse%2C+Archie+vs+Predator%2C+leaves+Dark+Horse&amp;rft.aufirst=Hannah&amp;rft.aulast=Means-Shannon&amp;rft.date=2015-09-01&amp;rft.genre=unknown&amp;rft.jtitle=Bleeding+Cool+News&amp;rft_id=https%3A%2F%2Fbleedingcool.com%2Fcomics%2Frecent-updates%2Fbrendan-wright-editor-of-mind-mgmt-grindhouse-archie-vs-predator-leaves-dark-horse%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-ign1-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-ign1_17-0"><sup><b>17.0</b></sup></a> <a href="#cite_ref-ign1_17-1"><sup><b>17.1</b></sup></a></span> <span class="reference-text"><cite class="citation web">Lake, Jeff. <a rel="nofollow" class="external text" href="https://www.ign.com/articles/2015/04/16/archie-vs-predator-1-review">Archie vs. Predator #1 Review</a>. <a href="/wiki/IGN" title="IGN">IGN</a>. 2015-04-15 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191122070434/https://www.ign.com/articles/2015/04/16/archie-vs-predator-1-review">存档</a>于2019-11-22）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Archie+vs.+Predator+%231+Review&amp;rft.aufirst=Jeff&amp;rft.aulast=Lake&amp;rft.date=2015-04-15&amp;rft.genre=unknown&amp;rft.jtitle=IGN&amp;rft_id=https%3A%2F%2Fwww.ign.com%2Farticles%2F2015%2F04%2F16%2Farchie-vs-predator-1-review&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-CB4-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-CB4_18-0"><sup><b>18.0</b></sup></a> <a href="#cite_ref-CB4_18-1"><sup><b>18.1</b></sup></a></span> <span class="reference-text"><cite class="citation web">Cabeal, Dustin. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210524024328/https://comicbastards.com/comics/review-archie-vs-predator-4/">Review: Archie vs. Predator #4</a>. Comic Bastards. 2015-07-22 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://comicbastards.com/comics/review-archie-vs-predator-4/">原始内容</a>存档于2021-05-24）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Review%3A+Archie+vs.+Predator+%234&amp;rft.aufirst=Dustin&amp;rft.aulast=Cabeal&amp;rft.date=2015-07-22&amp;rft.genre=unknown&amp;rft.jtitle=Comic+Bastards&amp;rft_id=https%3A%2F%2Fcomicbastards.com%2Fcomics%2Freview-archie-vs-predator-4%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">From the Variant Cover Gallery. Alex de Campi&#160;(<span style="font-size:smaller;"><a href="/wiki/%E7%B7%A8%E5%8A%87" title="編劇">編劇</a></span>),&#32;Fernando Ruiz&#160;(<span style="font-size:smaller;"><a href="/wiki/%E8%97%9D%E8%A1%93%E5%AE%B6" class="mw-redirect" title="藝術家">藝術家</a></span>).&#32;《Archie vs. Predator》&#32;(2015).&#32;Milwaukie, Oregon:&#32;<a href="/wiki/%E9%BB%91%E9%A9%AC%E6%BC%AB%E7%94%BB" title="黑马漫画">Dark Horse Comics</a>,&#32;<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r61200749" /><a href="/wiki/%E5%9B%BD%E9%99%85%E6%A0%87%E5%87%86%E4%B9%A6%E5%8F%B7" title="国际标准书号">ISBN</a>&#160;<a href="/wiki/Special:%E7%BD%91%E7%BB%9C%E4%B9%A6%E6%BA%90/1616558059" title="Special:网络书源/1616558059">1616558059</a>.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Silber, Gregory Paul. <a rel="nofollow" class="external text" href="https://aiptcomics.com/2015/11/05/archie-vs-predator-hc-review/">Is It Good? Archie vs. Predator HC Review</a>. Adventures in Poor Taste. 2015-11-05 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190919082301/http://www.adventuresinpoortaste.com/2015/11/05/archie-vs-predator-hc-review/">存档</a>于2019-09-19）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Is+It+Good%3F+Archie+vs.+Predator+HC+Review&amp;rft.aufirst=Gregory+Paul&amp;rft.aulast=Silber&amp;rft.date=2015-11-05&amp;rft.genre=unknown&amp;rft.jtitle=Adventures+in+Poor+Taste&amp;rft_id=https%3A%2F%2Faiptcomics.com%2F2015%2F11%2F05%2Farchie-vs-predator-hc-review%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://www.darkhorse.com/Books/28-168/Archie-vs-Predator-HC">Archie vs. Predator HC</a> (新闻稿). Dark Horse Comics.  <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200627035219/https://www.darkhorse.com/Books/28-168/Archie-vs-Predator-HC">存档</a>于2020-06-27）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.btitle=Archie+vs.+Predator+HC&amp;rft.genre=unknown&amp;rft.pub=Dark+Horse+Comics&amp;rft_id=https%3A%2F%2Fwww.darkhorse.com%2FBooks%2F28-168%2FArchie-vs-Predator-HC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20210524024331/https://www.darkhorse.com/Books/3004-388/Archie-vs-Predator-TPB">Archie vs. Predator TPB</a> (新闻稿). Dark Horse Comics.  <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （<a rel="nofollow" class="external text" href="https://www.darkhorse.com/Books/3004-388/Archie-vs-Predator-TPB">原始内容</a>存档于2021-05-24）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.btitle=Archie+vs.+Predator+TPB&amp;rft.genre=unknown&amp;rft.pub=Dark+Horse+Comics&amp;rft_id=https%3A%2F%2Fwww.darkhorse.com%2FBooks%2F3004-388%2FArchie-vs-Predator-TPB&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Archievs.Predator#1-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Archievs.Predator#1_23-0">^</a></b></span> <span class="reference-text">Alex de Campi&#160;(<span style="font-size:smaller;"><a href="/wiki/%E7%B7%A8%E5%8A%87" title="編劇">編劇</a></span>),&#32;Fernando Ruiz&#160;(<span style="font-size:smaller;"><a href="/wiki/%E8%97%9D%E8%A1%93%E5%AE%B6" class="mw-redirect" title="藝術家">藝術家</a></span>).&#32;《Part 1》&#32;《Archie vs. Predator》,&#32;第1期&#32;(2015-04).&#32;<a href="/wiki/%E9%BB%91%E9%A9%AC%E6%BC%AB%E7%94%BB" title="黑马漫画">Dark Horse Comics</a>, Archie Comics.</span>
+</li>
+<li id="cite_note-Archievs.Predator#2-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Archievs.Predator#2_24-0">^</a></b></span> <span class="reference-text">de Campi, Alex&#160;(<span style="font-size:smaller;"><a href="/wiki/%E7%B7%A8%E5%8A%87" title="編劇">編劇</a></span>),&#32;Ruiz, Fernando&#160;(<span style="font-size:smaller;"><a href="/wiki/%E8%97%9D%E8%A1%93%E5%AE%B6" class="mw-redirect" title="藝術家">藝術家</a></span>).&#32;《To Live and Die in a Small Town》&#32;《Archie vs. Predator》,&#32;第2期&#32;(2015-05).&#32;Dark Horse Comics, Archie Comics.</span>
+</li>
+<li id="cite_note-Archievs.Predator#3-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Archievs.Predator#3_25-0">^</a></b></span> <span class="reference-text">de Campi, Alex&#160;(<span style="font-size:smaller;"><a href="/wiki/%E7%B7%A8%E5%8A%87" title="編劇">編劇</a></span>),&#32;Ruiz, Fernando&#160;(<span style="font-size:smaller;"><a href="/wiki/%E8%97%9D%E8%A1%93%E5%AE%B6" class="mw-redirect" title="藝術家">藝術家</a></span>).&#32;《Part 3》&#32;《Archie vs. Predator》,&#32;第3期&#32;(2015-06).&#32;Dark Horse Comics, Archie Comics.</span>
+</li>
+<li id="cite_note-Archievs.Predator#4-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Archievs.Predator#4_26-0">^</a></b></span> <span class="reference-text">de Campi, Alex&#160;(<span style="font-size:smaller;"><a href="/wiki/%E7%B7%A8%E5%8A%87" title="編劇">編劇</a></span>),&#32;Ruiz, Fernando&#160;(<span style="font-size:smaller;"><a href="/wiki/%E8%97%9D%E8%A1%93%E5%AE%B6" class="mw-redirect" title="藝術家">藝術家</a></span>).&#32;《Guess Who's Coming To Dinner》&#32;《Archie vs. Predator》,&#32;第4期&#32;(2015-07).&#32;Dark Horse Comics, Archie Comics.</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">By units sold. <cite class="citation web">Miller, John Jackson. <a rel="nofollow" class="external text" href="https://www.comichron.com/monthlycomicssales/2015/2015-04.html">Comic Book Sales Figures for April 2015</a>. The Comics Chronicles.  <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20181004123421/http://www.comichron.com/monthlycomicssales/2015/2015-04.html">存档</a>于2018-10-04）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Comic+Book+Sales+Figures+for+April+2015&amp;rft.aufirst=John+Jackson&amp;rft.aulast=Miller&amp;rft.genre=unknown&amp;rft.jtitle=The+Comics+Chronicles&amp;rft_id=https%3A%2F%2Fwww.comichron.com%2Fmonthlycomicssales%2F2015%2F2015-04.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">By units sold.  <cite class="citation web">Miller, John Jackson. <a rel="nofollow" class="external text" href="https://www.comichron.com/monthlycomicssales/2015/2015-07.html">Comic Book Sales Figures for July 2015</a>. The Comics Chronicles.  <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200528025306/https://www.comichron.com/monthlycomicssales/2015/2015-07.html">存档</a>于2020-05-28）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Comic+Book+Sales+Figures+for+July+2015&amp;rft.aufirst=John+Jackson&amp;rft.aulast=Miller&amp;rft.genre=unknown&amp;rft.jtitle=The+Comics+Chronicles&amp;rft_id=https%3A%2F%2Fwww.comichron.com%2Fmonthlycomicssales%2F2015%2F2015-07.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">By units sold.  <cite class="citation web">Miller, John Jackson. <a rel="nofollow" class="external text" href="https://www.comichron.com/monthlycomicssales/2015/2015-11.html">Comic Book Sales Figures for November 2015</a>. The Comics Chronicles.  <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20181006065654/http://www.comichron.com/monthlycomicssales/2015/2015-11.html">存档</a>于2018-10-06）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Comic+Book+Sales+Figures+for+November+2015&amp;rft.aufirst=John+Jackson&amp;rft.aulast=Miller&amp;rft.genre=unknown&amp;rft.jtitle=The+Comics+Chronicles&amp;rft_id=https%3A%2F%2Fwww.comichron.com%2Fmonthlycomicssales%2F2015%2F2015-11.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://comicbookroundup.com/comic-books/reviews/dark-horse-comics/archie-vs-predator/1">Archie vs. Predator #1 Reviews</a>. <a href="/wiki/%E6%B1%87%E6%80%BB%E5%AA%92%E4%BD%93" class="mw-redirect" title="汇总媒体">Comic Book Roundup</a>.  <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180612211606/https://comicbookroundup.com/comic-books/reviews/dark-horse-comics/archie-vs-predator/1">存档</a>于2018-06-12）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Archie+vs.+Predator+%231+Reviews&amp;rft.genre=unknown&amp;rft.jtitle=Comic+Book+Roundup&amp;rft_id=https%3A%2F%2Fcomicbookroundup.com%2Fcomic-books%2Freviews%2Fdark-horse-comics%2Farchie-vs-predator%2F1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation news">Virtue, Grame. <a rel="nofollow" class="external text" href="https://www.theguardian.com/books/2015/apr/18/the-month-in-comics">Archie Vs Predator, Convergence, The Infinite Loop: the month in comics</a>. <a href="/wiki/%E5%8D%AB%E6%8A%A5" class="mw-redirect" title="卫报">The Guardian</a>. 2015-04-18 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200626215040/https://www.theguardian.com/books/2015/apr/18/the-month-in-comics">存档</a>于2020-06-26）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Archie+Vs+Predator%2C+Convergence%2C+The+Infinite+Loop%3A+the+month+in+comics&amp;rft.aufirst=Grame&amp;rft.aulast=Virtue&amp;rft.date=2015-04-18&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2015%2Fapr%2F18%2Fthe-month-in-comics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web">Parrish, Robin. <a rel="nofollow" class="external text" href="http://www.techtimes.com/articles/46487/20150415/new-comic-book-day-april-15-2015-archie-battles-predator.htm">New Comic Book Day April 15, 2015: Archie Battles Predator And DC's 'Convergence' Continues</a>. Tech Times. 2015-04-15 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180811195735/https://www.techtimes.com/articles/46487/20150415/new-comic-book-day-april-15-2015-archie-battles-predator.htm">存档</a>于2018-08-11）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=New+Comic+Book+Day+April+15%2C+2015%3A+Archie+Battles+Predator+And+DC%27s+%27Convergence%27+Continues&amp;rft.aufirst=Robin&amp;rft.aulast=Parrish&amp;rft.date=2015-04-15&amp;rft.genre=unknown&amp;rft.jtitle=Tech+Times&amp;rft_id=http%3A%2F%2Fwww.techtimes.com%2Farticles%2F46487%2F20150415%2Fnew-comic-book-day-april-15-2015-archie-battles-predator.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web">Brown, Billy. <a rel="nofollow" class="external text" href="https://www.pastemagazine.com/comics/archie/archie-vs-predator-1-by-alex-de-campi-fernando-rui/#">Archie vs. Predator #1 by Alex de Campi &amp; Fernando Ruiz Review</a>. Paste. 2015-04-15 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180925180535/https://www.pastemagazine.com/articles/2015/04/archie-vs-predator-1-by-alex-de-campi-fernando-rui.html">存档</a>于2018-09-25）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Archie+vs.+Predator+%231+by+Alex+de+Campi+%26+Fernando+Ruiz+Review&amp;rft.aufirst=Billy&amp;rft.aulast=Brown&amp;rft.date=2015-04-15&amp;rft.genre=unknown&amp;rft.jtitle=Paste&amp;rft_id=https%3A%2F%2Fwww.pastemagazine.com%2Fcomics%2Farchie%2Farchie-vs-predator-1-by-alex-de-campi-fernando-rui%2F%23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web">Royer, Decapdan. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190518010804/http://www.ghastlyawards.com/2016/03/2015-ghastly-award-winners.html">Ghastly Award Winners</a>. Ghastly Awards. 2016-03 <span class="reference-accessdate"> &#91;<span class="nowrap">2019-05-18</span>&#93;</span>. （<a rel="nofollow" class="external text" href="http://www.ghastlyawards.com/2016/03/2015-ghastly-award-winners.html">原始内容</a>存档于2019-05-18）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Ghastly+Award+Winners&amp;rft.aufirst=Decapdan&amp;rft.aulast=Royer&amp;rft.date=2016-03&amp;rft.genre=unknown&amp;rft.jtitle=Ghastly+Awards&amp;rft_id=http%3A%2F%2Fwww.ghastlyawards.com%2F2016%2F03%2F2015-ghastly-award-winners.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web">Burog, Vianne. <a rel="nofollow" class="external text" href="https://www.latintimes.com/archie-vs-predator-2-predator-coming-riverdale-437581">Archie vs Predator 2: The Predator is Coming to Riverdale</a>. Latin Times. 2019-04-05 <span class="reference-accessdate"> &#91;<span class="nowrap">2020-07-29</span>&#93;</span>. （原始内容<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191102060613/https://www.latintimes.com/archie-vs-predator-2-predator-coming-riverdale-437581">存档</a>于2019-11-02）.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzh.wikipedia.org%3A%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;rft.atitle=Archie+vs+Predator+2%3A+The+Predator+is+Coming+to+Riverdale&amp;rft.aufirst=Vianne&amp;rft.aulast=Burog&amp;rft.date=2019-04-05&amp;rft.genre=unknown&amp;rft.jtitle=Latin+Times&amp;rft_id=https%3A%2F%2Fwww.latintimes.com%2Farchie-vs-predator-2-predator-coming-riverdale-437581&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<div class="mw-heading mw-heading2"><h2 id="外部链接"><span id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"></span>外部链接</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;action=edit&amp;section=7" title="编辑章节：外部链接"><span>编辑</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>格兰德漫画数据库：<a rel="nofollow" class="external text" href="https://www.comics.org/series/88414">《阿奇大战铁血战士》</a> （<a rel="nofollow" class="external text" href="//web.archive.org/web/20210524033634/https://www.comics.org/series/88414">页面存档备份</a>，存于<a href="/wiki/%E4%BA%92%E8%81%94%E7%BD%91%E6%A1%A3%E6%A1%88%E9%A6%86" title="互联网档案馆">互联网档案馆</a>）</li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r84265675">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:" :"}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist-pipe dd::after,.mw-parser-output .hlist-pipe li::after{content:" | ";font-weight:normal}.mw-parser-output .hlist-hyphen dd::after,.mw-parser-output .hlist-hyphen li::after{content:" - ";font-weight:normal}.mw-parser-output .hlist-comma dd::after,.mw-parser-output .hlist-comma li::after{content:"、";font-weight:normal}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:"（"counter(listitem)"\a0 "}.mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;display:inline-block}.mw-parser-output .cslist li::after{content:"，"}.mw-parser-output .sslist li::after{content:"；"}.mw-parser-output .cslist li:last-child::after,.mw-parser-output .sslist li:last-child::after{content:none}</style><style data-mw-deduplicate="TemplateStyles:r84261037">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{text-align:center;padding-left:1em;padding-right:1em}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf;position:relative}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em;width:auto;padding-left:0.2em;position:absolute;left:1em}.mw-parser-output .navbox .mw-collapsible-toggle{margin-left:0.5em;position:absolute;right:1em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</style></div><div role="navigation" class="navbox" aria-labelledby="終極戰士（英语：-&amp;#123;Predator_(franchise)&amp;#125;-）" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="collapsible-title navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r84265675" /><style data-mw-deduplicate="TemplateStyles:r84244141">.mw-parser-output .navbar{display:inline;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:110%;margin:0 8em}.mw-parser-output .navbar-ct-mini{font-size:110%;margin:0 5em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Predator" title="Template:Predator"><abbr title="查看该模板">查</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Predator" title="Template talk:Predator"><abbr title="讨论该模板">论</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:%E7%BC%96%E8%BE%91%E9%A1%B5%E9%9D%A2/Template:Predator" title="Special:编辑页面/Template:Predator"><abbr title="编辑该模板">编</abbr></a></li></ul></div><div id="終極戰士（英语：-&amp;#123;Predator_(franchise)&amp;#125;-）" style="font-size:110%;margin:0 5em"><span class="ilh-all" data-orig-title="終極戰士系列" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predator (franchise)"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB%E7%B3%BB%E5%88%97&amp;action=edit&amp;redlink=1" class="new" title="終極戰士系列（页面不存在）">終極戰士</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predator_(franchise)" class="extiw" title="en:Predator (franchise)"><span lang="en" dir="auto">Predator (franchise)</span></a></span><span class="ilh-paren">）</span></span></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">電影</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>《<a href="/wiki/%E9%90%B5%E8%A1%80%E6%88%B0%E5%A3%AB" title="鐵血戰士">終極戰士</a>》（1987）</li>
+<li>《<a href="/wiki/%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB2" title="铁血战士2">終極戰士2</a>》（1990）</li>
+<li>《<a href="/wiki/%E6%96%B0%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB" title="新铁血战士">新铁血战士</a>》（2010）</li>
+<li>《<a href="/wiki/%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB%EF%BC%9A%E6%8E%A0%E5%A5%AA%E8%80%85" title="終極戰士：掠奪者">終極戰士：掠奪者</a>》（2018）</li>
+<li>《<a href="/wiki/%E9%90%B5%E8%A1%80%E6%88%B0%E5%A3%AB%EF%BC%9A%E7%8B%A9%E7%8D%B5%E8%BF%BD%E6%93%8A" title="鐵血戰士：狩獵追擊">鐵血戰士：狩獵追擊</a>》（2022）</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">原聲帶</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>《<span class="ilh-all" data-orig-title="終極戰士 (原聲帶)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predator (soundtrack)"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB_(%E5%8E%9F%E8%81%B2%E5%B8%B6)&amp;action=edit&amp;redlink=1" class="new" title="終極戰士 (原聲帶)（页面不存在）">終極戰士</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predator_(soundtrack)" class="extiw" title="en:Predator (soundtrack)"><span lang="en" dir="auto">Predator (soundtrack)</span></a></span><span class="ilh-paren">）</span></span></span>》</li>
+<li>《<span class="ilh-all" data-orig-title="終極戰士2 (原聲帶)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predator 2 (soundtrack)"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB2_(%E5%8E%9F%E8%81%B2%E5%B8%B6)&amp;action=edit&amp;redlink=1" class="new" title="終極戰士2 (原聲帶)（页面不存在）">終極戰士2</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predator_2_(soundtrack)" class="extiw" title="en:Predator 2 (soundtrack)"><span lang="en" dir="auto">Predator 2 (soundtrack)</span></a></span><span class="ilh-paren">）</span></span></span>》</li>
+<li>《<span class="ilh-all" data-orig-title="終極戰士團 (原聲帶)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predators (soundtrack)"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB%E5%9C%98_(%E5%8E%9F%E8%81%B2%E5%B8%B6)&amp;action=edit&amp;redlink=1" class="new" title="終極戰士團 (原聲帶)（页面不存在）">終極戰士團</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predators_(soundtrack)" class="extiw" title="en:Predators (soundtrack)"><span lang="en" dir="auto">Predators (soundtrack)</span></a></span><span class="ilh-paren">）</span></span></span>》</li>
+<li>《<span class="ilh-all" data-orig-title="終極戰士：掠奪者 (原聲帶)" data-lang-code="en" data-lang-name="英语" data-foreign-title="The Predator (soundtrack)"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB%EF%BC%9A%E6%8E%A0%E5%A5%AA%E8%80%85_(%E5%8E%9F%E8%81%B2%E5%B8%B6)&amp;action=edit&amp;redlink=1" class="new" title="終極戰士：掠奪者 (原聲帶)（页面不存在）">終極戰士：掠奪者</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/The_Predator_(soundtrack)" class="extiw" title="en:The Predator (soundtrack)"><span lang="en" dir="auto">The Predator (soundtrack)</span></a></span><span class="ilh-paren">）</span></span></span>》</li>
+<li>《<span class="ilh-all" data-orig-title="終極戰士：獸獵者 (原聲帶)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Prey (soundtrack)"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB%EF%BC%9A%E7%8D%B8%E7%8D%B5%E8%80%85_(%E5%8E%9F%E8%81%B2%E5%B8%B6)&amp;action=edit&amp;redlink=1" class="new" title="終極戰士：獸獵者 (原聲帶)（页面不存在）">終極戰士：獸獵者</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Prey_(soundtrack)" class="extiw" title="en:Prey (soundtrack)"><span lang="en" dir="auto">Prey (soundtrack)</span></a></span><span class="ilh-paren">）</span></span></span>》</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><span class="ilh-all" data-orig-title="終極戰士 (漫畫)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predator (comics)"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB_(%E6%BC%AB%E7%95%AB)&amp;action=edit&amp;redlink=1" class="new" title="終極戰士 (漫畫)（页面不存在）">漫畫</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predator_(comics)" class="extiw" title="en:Predator (comics)"><span lang="en" dir="auto">Predator (comics)</span></a></span><span class="ilh-paren">）</span></span></span></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>《<span class="ilh-all" data-orig-title="終極戰士：壞血" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predator: Bad Blood"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB%EF%BC%9A%E5%A3%9E%E8%A1%80&amp;action=edit&amp;redlink=1" class="new" title="終極戰士：壞血（页面不存在）">終極戰士：壞血</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predator:_Bad_Blood" class="extiw" title="en:Predator: Bad Blood"><span lang="en" dir="auto">Predator: Bad Blood</span></a></span><span class="ilh-paren">）</span></span></span>》</li>
+<li>《<span class="ilh-all" data-orig-title="蝙蝠俠大戰終極戰士" data-lang-code="en" data-lang-name="英语" data-foreign-title="Batman Versus Predator"><span class="ilh-page"><a href="/w/index.php?title=%E8%9D%99%E8%9D%A0%E4%BF%A0%E5%A4%A7%E6%88%B0%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB&amp;action=edit&amp;redlink=1" class="new" title="蝙蝠俠大戰終極戰士（页面不存在）">蝙蝠俠大戰終極戰士</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Batman_Versus_Predator" class="extiw" title="en:Batman Versus Predator"><span lang="en" dir="auto">Batman Versus Predator</span></a></span><span class="ilh-paren">）</span></span></span>》</li>
+<li>《<span class="ilh-all" data-orig-title="終極戰士大戰判官爵德" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predator vs. Judge Dredd"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB%E5%A4%A7%E6%88%B0%E5%88%A4%E5%AE%98%E7%88%B5%E5%BE%B7&amp;action=edit&amp;redlink=1" class="new" title="終極戰士大戰判官爵德（页面不存在）">終極戰士大戰判官爵德</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predator_vs._Judge_Dredd" class="extiw" title="en:Predator vs. Judge Dredd"><span lang="en" dir="auto">Predator vs. Judge Dredd</span></a></span><span class="ilh-paren">）</span></span></span>》</li>
+<li>《<span class="ilh-all" data-orig-title="超人大戰終極戰士" data-lang-code="en" data-lang-name="英语" data-foreign-title="Superman vs. Predator"><span class="ilh-page"><a href="/w/index.php?title=%E8%B6%85%E4%BA%BA%E5%A4%A7%E6%88%B0%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB&amp;action=edit&amp;redlink=1" class="new" title="超人大戰終極戰士（页面不存在）">超人大戰終極戰士</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Superman_vs._Predator" class="extiw" title="en:Superman vs. Predator"><span lang="en" dir="auto">Superman vs. Predator</span></a></span><span class="ilh-paren">）</span></span></span>》</li>
+<li>《<a class="mw-selflink selflink">阿奇大战铁血战士</a>》</li>
+<li>《<span class="ilh-all" data-orig-title="泰山大戰終極戰士" data-lang-code="en" data-lang-name="英语" data-foreign-title="Tarzan vs. Predator: At the Earth&#39;s Core"><span class="ilh-page"><a href="/w/index.php?title=%E6%B3%B0%E5%B1%B1%E5%A4%A7%E6%88%B0%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB&amp;action=edit&amp;redlink=1" class="new" title="泰山大戰終極戰士（页面不存在）">泰山大戰終極戰士</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Tarzan_vs._Predator:_At_the_Earth%27s_Core" class="extiw" title="en:Tarzan vs. Predator: At the Earth&#39;s Core"><span lang="en" dir="auto">Tarzan vs. Predator: At the Earth's Core</span></a></span><span class="ilh-paren">）</span></span></span>》</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><span class="ilh-all" data-orig-title="異形、終極戰士與異形戰場遊戲列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of Alien, Predator and Alien vs. Predator games"><span class="ilh-page"><a href="/w/index.php?title=%E7%95%B0%E5%BD%A2%E3%80%81%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB%E8%88%87%E7%95%B0%E5%BD%A2%E6%88%B0%E5%A0%B4%E9%81%8A%E6%88%B2%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="異形、終極戰士與異形戰場遊戲列表（页面不存在）">遊戲</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_Alien,_Predator_and_Alien_vs._Predator_games" class="extiw" title="en:List of Alien, Predator and Alien vs. Predator games"><span lang="en" dir="auto">List of Alien, Predator and Alien vs. Predator games</span></a></span><span class="ilh-paren">）</span></span></span></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>《<span class="ilh-all" data-orig-title="終極戰士 (遊戲)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predator (video game)"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB_(%E9%81%8A%E6%88%B2)&amp;action=edit&amp;redlink=1" class="new" title="終極戰士 (遊戲)（页面不存在）">終極戰士</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predator_(video_game)" class="extiw" title="en:Predator (video game)"><span lang="en" dir="auto">Predator (video game)</span></a></span><span class="ilh-paren">）</span></span></span>》（1987）</li>
+<li>《<span class="ilh-all" data-orig-title="終極戰士2 (1990年遊戲)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predator 2 (1990 video game)"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB2_(1990%E5%B9%B4%E9%81%8A%E6%88%B2)&amp;action=edit&amp;redlink=1" class="new" title="終極戰士2 (1990年遊戲)（页面不存在）">終極戰士2</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predator_2_(1990_video_game)" class="extiw" title="en:Predator 2 (1990 video game)"><span lang="en" dir="auto">Predator 2 (1990 video game)</span></a></span><span class="ilh-paren">）</span></span></span>》（1990）</li>
+<li>《<span class="ilh-all" data-orig-title="終極戰士2 (1992年遊戲)" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predator 2 (1992 video game)"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB2_(1992%E5%B9%B4%E9%81%8A%E6%88%B2)&amp;action=edit&amp;redlink=1" class="new" title="終極戰士2 (1992年遊戲)（页面不存在）">終極戰士2</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predator_2_(1992_video_game)" class="extiw" title="en:Predator 2 (1992 video game)"><span lang="en" dir="auto">Predator 2 (1992 video game)</span></a></span><span class="ilh-paren">）</span></span></span>》（1992）</li>
+<li>《<span class="ilh-all" data-orig-title="終極戰士．都市叢林" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predator: Concrete Jungle"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB%EF%BC%8E%E9%83%BD%E5%B8%82%E5%8F%A2%E6%9E%97&amp;action=edit&amp;redlink=1" class="new" title="終極戰士．都市叢林（页面不存在）">終極戰士．都市叢林</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predator:_Concrete_Jungle" class="extiw" title="en:Predator: Concrete Jungle"><span lang="en" dir="auto">Predator: Concrete Jungle</span></a></span><span class="ilh-paren">）</span></span></span>》（2005）</li>
+<li>《<span class="ilh-all" data-orig-title="終極戰士：狩獵戰場" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predator: Hunting Grounds"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB%EF%BC%9A%E7%8B%A9%E7%8D%B5%E6%88%B0%E5%A0%B4&amp;action=edit&amp;redlink=1" class="new" title="終極戰士：狩獵戰場（页面不存在）">終極戰士：狩獵戰場</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predator:_Hunting_Grounds" class="extiw" title="en:Predator: Hunting Grounds"><span lang="en" dir="auto">Predator: Hunting Grounds</span></a></span><span class="ilh-paren">）</span></span></span>》（2020）</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">其他</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="ilh-all" data-orig-title="終極戰士角色列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of Predator characters"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="終極戰士角色列表（页面不存在）">角色</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_Predator_characters" class="extiw" title="en:List of Predator characters"><span lang="en" dir="auto">List of Predator characters</span></a></span><span class="ilh-paren">）</span></span></span>
+<ul><li><a href="/wiki/%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB_(%E8%99%9A%E6%9E%84%E7%94%9F%E7%89%A9)" title="铁血战士 (虚构生物)">終極戰士</a></li></ul></li>
+<li><span class="ilh-all" data-orig-title="終極戰士系列小說" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predator (novel series)"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB%E7%B3%BB%E5%88%97%E5%B0%8F%E8%AA%AA&amp;action=edit&amp;redlink=1" class="new" title="終極戰士系列小說（页面不存在）">小說</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predator_(novel_series)" class="extiw" title="en:Predator (novel series)"><span lang="en" dir="auto">Predator (novel series)</span></a></span><span class="ilh-paren">）</span></span></span></li>
+<li><span class="ilh-all" data-orig-title="終極戰士系列獲獎列表" data-lang-code="en" data-lang-name="英语" data-foreign-title="List of accolades received by the Predator franchise"><span class="ilh-page"><a href="/w/index.php?title=%E7%B5%82%E6%A5%B5%E6%88%B0%E5%A3%AB%E7%B3%BB%E5%88%97%E7%8D%B2%E7%8D%8E%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" class="new" title="終極戰士系列獲獎列表（页面不存在）">獎項</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/List_of_accolades_received_by_the_Predator_franchise" class="extiw" title="en:List of accolades received by the Predator franchise"><span lang="en" dir="auto">List of accolades received by the Predator franchise</span></a></span><span class="ilh-paren">）</span></span></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">相關</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%95%B0%E5%BD%A2%E7%B3%BB%E5%88%97" title="異形系列">異形系列</a></li>
+<li><span class="ilh-all" data-orig-title="異形戰場系列" data-lang-code="en" data-lang-name="英语" data-foreign-title="Alien vs. Predator"><span class="ilh-page"><a href="/w/index.php?title=%E7%95%B0%E5%BD%A2%E6%88%B0%E5%A0%B4%E7%B3%BB%E5%88%97&amp;action=edit&amp;redlink=1" class="new" title="異形戰場系列（页面不存在）">異形戰場系列</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Alien_vs._Predator" class="extiw" title="en:Alien vs. Predator"><span lang="en" dir="auto">Alien vs. Predator</span></a></span><span class="ilh-paren">）</span></span></span></li>
+<li><span class="ilh-all" data-orig-title="巴西恶鬼蜘蛛" data-lang-code="en" data-lang-name="英语" data-foreign-title="Predatoroonops"><span class="ilh-page"><a href="/w/index.php?title=%E5%B7%B4%E8%A5%BF%E6%81%B6%E9%AC%BC%E8%9C%98%E8%9B%9B&amp;action=edit&amp;redlink=1" class="new" title="巴西恶鬼蜘蛛（页面不存在）">巴西恶鬼蜘蛛</a></span><span class="noprint ilh-comment"><span class="ilh-paren">（</span><span class="ilh-lang">英语</span><span class="ilh-colon">：</span><span class="ilh-link"><a href="https://en.wikipedia.org/wiki/Predatoroonops" class="extiw" title="en:Predatoroonops"><span lang="en" dir="auto">Predatoroonops</span></a></span><span class="ilh-paren">）</span></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.codfw.migration‐8579f695cf‐6865m
+Cached time: 20250307001030
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 1.411 seconds
+Real time usage: 1.580 seconds
+Preprocessor visited node count: 8457/1000000
+Post‐expand include size: 1545172/2097152 bytes
+Template argument size: 8590/2097152 bytes
+Highest expansion depth: 22/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 66793/5000000 bytes
+Lua time usage: 0.571/10.000 seconds
+Lua memory usage: 30406522/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1001.995      1 -total
+ 33.94%  340.053      1 Template:Reflist
+ 17.32%  173.543      1 Template:Predator
+ 17.15%  171.845      1 Template:Navbox
+ 15.84%  158.698      1 Template:NoteTA
+ 14.01%  140.378      7 Template:Cite_comic
+ 11.63%  116.522      1 Template:Lang-en
+ 10.40%  104.176     22 Template:Cite_web
+  8.62%   86.374     23 Template:Le
+  8.46%   84.719     33 Template:Lang
+-->
+
+<!-- Saved in parser cache with key zhwiki:pcache:7139409:|#|:idhash:canonical!zh and timestamp 20250307001030 and revision id 84402514. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">检索自“<a dir="ltr" href="https://zh.wikipedia.org/w/index.php?title=阿奇大战铁血战士&amp;oldid=84402514">https://zh.wikipedia.org/w/index.php?title=阿奇大战铁血战士&amp;oldid=84402514</a>”</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：​<ul><li><a href="/wiki/Category:%E9%98%BF%E5%A5%87%E6%BC%AB%E7%94%BB%E5%87%BA%E7%89%88%E7%89%A9" title="Category:阿奇漫画出版物">阿奇漫画出版物</a></li><li><a href="/wiki/Category:%E9%BB%91%E9%A9%AC%E6%BC%AB%E7%94%BB%E5%87%BA%E7%89%88%E7%89%A9" title="Category:黑马漫画出版物">黑马漫画出版物</a></li><li><a href="/wiki/Category:%E8%B7%A8%E5%85%AC%E5%8F%B8%E8%B7%A8%E7%95%8C%E4%BD%9C%E5%93%81" title="Category:跨公司跨界作品">跨公司跨界作品</a></li><li><a href="/wiki/Category:%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB%E7%B3%BB%E5%88%97%E6%BC%AB%E7%94%BB" title="Category:铁血战士系列漫画">铁血战士系列漫画</a></li><li><a href="/wiki/Category:2015%E5%B9%B4%E9%9D%A2%E4%B8%96%E7%9A%84%E6%BC%AB%E7%94%BB" title="Category:2015年面世的漫画">2015年面世的漫画</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">隐藏分类：​<ul><li><a href="/wiki/Category:%E5%90%AB%E6%9C%89%E8%8B%B1%E8%AA%9E%E7%9A%84%E6%A2%9D%E7%9B%AE" title="Category:含有英語的條目">含有英語的條目</a></li><li><a href="/wiki/Category:%E5%85%B8%E8%8C%83%E6%9D%A1%E7%9B%AE" title="Category:典范条目">典范条目</a></li><li><a href="/wiki/Category:%E4%BD%BF%E7%94%A8ISBN%E9%AD%94%E6%9C%AF%E9%93%BE%E6%8E%A5%E7%9A%84%E9%A1%B5%E9%9D%A2" title="Category:使用ISBN魔术链接的页面">使用ISBN魔术链接的页面</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> 本页面最后修订于2024年9月29日 (星期日) 18:23。</li>
+	<li id="footer-info-copyright">本站的全部文字在<a href="/wiki/Wikipedia:CC_BY-SA_4.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC" title="Wikipedia:CC BY-SA 4.0协议文本">知识共享 署名-相同方式共享 4.0协议</a>之条款下提供，附加条款亦可能应用。（请参阅<a class="external text" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">使用条款</a>）<br />
+Wikipedia&#174;和维基百科标志是<a rel="nofollow" class="external text" href="https://wikimediafoundation.org/zh">维基媒体基金会</a>的注册商标；维基&#8482;是维基媒体基金会的商标。<br />
+维基媒体基金会是按美国国內稅收法501(c)(3)登记的<a class="external text" href="https://donate.wikimedia.org/wiki/Special:MyLanguage/Tax_deductibility">非营利慈善机构</a>。<br /></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">隐私政策</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%E5%85%B3%E4%BA%8E">关于维基百科</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E">免责声明</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">行为准则</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">开发者</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/zh.wikipedia.org">统计</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie声明</a></li>
+	<li id="footer-places-mobileview"><a href="//zh.m.wikipedia.org/w/index.php?title=%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left vector-button-flush-right" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>搜索</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input"
+									
+									type="search" name="search" placeholder="搜索维基百科">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:搜索">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">搜索</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="目录" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="开关目录"  >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">开关目录</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span class="mw-page-title-main">阿奇大战铁血战士</span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language"></span>
+
+<span>2种语言</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive"></span>
+
+<span>添加话题</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.canary-85f8d86c5f-w4vwb","wgBackendResponseTime":178,"wgPageParseReport":{"limitreport":{"cputime":"1.411","walltime":"1.580","ppvisitednodes":{"value":8457,"limit":1000000},"postexpandincludesize":{"value":1545172,"limit":2097152},"templateargumentsize":{"value":8590,"limit":2097152},"expansiondepth":{"value":22,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":66793,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1001.995      1 -total"," 33.94%  340.053      1 Template:Reflist"," 17.32%  173.543      1 Template:Predator"," 17.15%  171.845      1 Template:Navbox"," 15.84%  158.698      1 Template:NoteTA"," 14.01%  140.378      7 Template:Cite_comic"," 11.63%  116.522      1 Template:Lang-en"," 10.40%  104.176     22 Template:Cite_web","  8.62%   86.374     23 Template:Le","  8.46%   84.719     33 Template:Lang"]},"scribunto":{"limitreport-timeusage":{"value":"0.571","limit":"10.000"},"limitreport-memusage":{"value":30406522,"limit":52428800}},"cachereport":{"origin":"mw-api-int.codfw.migration-8579f695cf-6865m","timestamp":"20250307001030","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u963f\u5947\u5927\u6218\u94c1\u8840\u6218\u58eb","url":"https:\/\/zh.wikipedia.org\/wiki\/%E9%98%BF%E5%A5%87%E5%A4%A7%E6%88%98%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB","sameAs":"http:\/\/www.wikidata.org\/entity\/Q23020250","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q23020250","author":{"@type":"Organization","name":"\u7ef4\u57fa\u5a92\u4f53\u9879\u76ee\u8d21\u732e\u8005"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2020-07-28T14:35:08Z","dateModified":"2024-09-29T18:23:18Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/zh\/6\/63\/ArchieVsPredator1.png"}</script>
+</body>
+</html>
